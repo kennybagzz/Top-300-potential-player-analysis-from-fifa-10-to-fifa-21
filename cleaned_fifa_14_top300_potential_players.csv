@@ -1,0 +1,301 @@
+Player name,Known as,player_id,position,nationality,team,Fifa 14 Potential rating,Fifa 14 overall_rating,Fifa 14 age,Fifa 15 overall_rating,Fifa 15 age,Fifa 16 overall_rating,Fifa 16 age,Fifa 17 overall_rating,Fifa 17 age,Fifa 18 overall_rating,Fifa 18 age,Fifa 19 overall_rating,Fifa 19 age,Fifa 20 overall_rating,Fifa 20 age,Fifa 21 overall_rating,Fifa 21 age,Fifa 22 overall_rating,Fifa 22 age,Fifa 14 outcome,Year potential reached
+Mario Götze,M. Götze,192318,"['CAM', 'CF', 'RM', 'LM']",Germany,FC Bayern München,92,85,21,85.0,22.0,84.0,23.0,84.0,24.0,81.0,25.0,82.0,26.0,82.0,27.0,,,82.0,29.0,did not hit their potential,
+Neymar da Silva Santos Júnior,Neymar,190871,"['ST', 'LW', 'CF']",Brazil,FC Barcelona,91,84,21,86.0,22.0,88.0,23.0,92.0,24.0,92.0,25.0,92.0,26.0,92.0,27.0,91.0,28.0,91.0,29.0,lived to expectations,3.0
+Gareth Frank Bale,G. Bale,173731,"['CF', 'LM']",Wales,Tottenham Hotspur,91,87,23,87.0,24.0,87.0,25.0,90.0,26.0,89.0,27.0,88.0,28.0,85.0,29.0,83.0,30.0,82.0,31.0,lived to expectations,3.0
+Zakaria Bakkali,Z. Bakkali,208790,"['RW', 'LW']",Belgium,PSV,90,73,17,71.0,18.0,73.0,19.0,74.0,20.0,72.0,21.0,70.0,22.0,,,69.0,24.0,,,did not hit their potential,
+Lucas Rodrigues Moura da Silva,Lucas,200949,"['RM', 'RW']",Brazil,Paris Saint-Germain,90,82,20,82.0,21.0,82.0,22.0,82.0,23.0,82.0,24.0,82.0,25.0,83.0,26.0,83.0,27.0,81.0,28.0,did not hit their potential,
+Mario Barwuah Balotelli,M. Balotelli,186627,['ST'],Italy,AC Milan,90,84,22,82.0,23.0,80.0,24.0,79.0,25.0,82.0,26.0,83.0,27.0,82.0,28.0,79.0,29.0,76.0,30.0,did not hit their potential,
+Eden Michael Hazard,E. Hazard,183277,"['LM', 'RM']",Belgium,Chelsea,90,85,22,88.0,23.0,89.0,24.0,88.0,25.0,90.0,26.0,91.0,27.0,91.0,28.0,88.0,29.0,85.0,30.0,lived to expectations,2.0
+Stevan Jovetić,S. Jovetić,181820,"['ST', 'CF']",Montenegro,Manchester City,90,84,23,81.0,24.0,81.0,25.0,81.0,26.0,81.0,27.0,80.0,28.0,78.0,29.0,77.0,30.0,77.0,31.0,did not hit their potential,
+Marcos Aoás Corrêa,Marquinhos,207865,"['CB', 'RB']",Brazil,Paris Saint-Germain,89,78,19,77.0,20.0,81.0,21.0,82.0,22.0,83.0,23.0,84.0,24.0,86.0,25.0,85.0,26.0,87.0,27.0,did not hit their potential,
+James David Rodríguez Rubio,J. Rodríguez,198710,"['RW', 'CAM']",Colombia,AS Monaco,89,83,21,86.0,22.0,87.0,23.0,87.0,24.0,86.0,25.0,88.0,26.0,85.0,27.0,82.0,28.0,81.0,29.0,lived to expectations,5.0
+Francisco Román Alarcón Suárez,Isco,197781,"['CAM', 'LM', 'CF']",Spain,Real Madrid CF,89,84,21,83.0,22.0,84.0,23.0,84.0,24.0,86.0,25.0,89.0,26.0,86.0,27.0,84.0,28.0,82.0,29.0,lived to expectations,5.0
+Jack Wilshere,J. Wilshere,189461,"['CM', 'CDM', 'CAM']",England,Arsenal,89,82,21,81.0,22.0,81.0,23.0,82.0,24.0,81.0,25.0,80.0,26.0,79.0,27.0,76.0,28.0,,,did not hit their potential,
+Armindo Tué Na Bangna,Bruma,211368,"['LW', 'RW']",Portugal,Sporting CP,88,75,18,76.0,19.0,76.0,20.0,77.0,21.0,81.0,22.0,79.0,23.0,78.0,24.0,76.0,25.0,76.0,26.0,did not hit their potential,
+Raphaël Varane,R. Varane,201535,"['CB', 'CDM']",France,Real Madrid CF,88,81,20,81.0,21.0,82.0,22.0,84.0,23.0,85.0,24.0,86.0,25.0,85.0,26.0,86.0,27.0,86.0,28.0,did not hit their potential,
+Marco Verratti,M. Verratti,199556,"['CDM', 'CM']",Italy,Paris Saint-Germain,88,77,20,80.0,21.0,84.0,22.0,85.0,23.0,87.0,24.0,86.0,25.0,86.0,26.0,86.0,27.0,87.0,28.0,lived to expectations,4.0
+Thibaut Nicolas Marc Courtois,T. Courtois,192119,['GK'],Belgium,Atlético de Madrid,88,84,21,86.0,22.0,86.0,23.0,89.0,24.0,89.0,25.0,90.0,26.0,88.0,27.0,89.0,28.0,89.0,29.0,exceeded their potential,3.0
+Christian Dannemann Eriksen,C. Eriksen,190460,"['CAM', 'CM']",Denmark,Ajax,88,82,21,83.0,22.0,83.0,23.0,84.0,24.0,87.0,25.0,88.0,26.0,88.0,27.0,85.0,28.0,82.0,29.0,lived to expectations,4.0
+Thomas Müller,T. Müller,189596,"['RM', 'CAM', 'CM']",Germany,FC Bayern München,88,85,23,86.0,24.0,86.0,25.0,87.0,26.0,86.0,27.0,86.0,28.0,86.0,29.0,86.0,30.0,87.0,31.0,lived to expectations,3.0
+Anthony Martial,A. Martial,211300,['ST'],France,AS Monaco,87,63,17,69.0,18.0,77.0,19.0,82.0,20.0,82.0,21.0,83.0,22.0,83.0,23.0,84.0,24.0,81.0,25.0,still has time,
+Mateo Kovačić,M. Kovačić,207410,"['CM', 'CAM']",Croatia,Inter,87,77,19,75.0,20.0,78.0,21.0,79.0,22.0,82.0,23.0,83.0,24.0,82.0,25.0,83.0,26.0,83.0,27.0,did not hit their potential,
+Paul Pogba,P. Pogba,195864,"['CM', 'CDM']",France,Juventus,87,79,20,83.0,21.0,86.0,22.0,88.0,23.0,87.0,24.0,88.0,25.0,88.0,26.0,86.0,27.0,87.0,28.0,lived to expectations,2.0
+David De Gea Quintana,De Gea,193080,['GK'],Spain,Manchester United,87,82,22,83.0,23.0,86.0,24.0,90.0,25.0,90.0,26.0,91.0,27.0,89.0,28.0,86.0,29.0,84.0,30.0,exceeded their potential,2.0
+Marc-André ter Stegen,M. ter Stegen,192448,['GK'],Germany,Borussia Mönchengladbach,87,80,21,82.0,22.0,82.0,23.0,83.0,24.0,85.0,25.0,89.0,26.0,90.0,27.0,90.0,28.0,90.0,29.0,exceeded their potential,5.0
+Stephan El Shaarawy,S. El Shaarawy,190813,"['LW', 'CF']",Italy,AC Milan,87,81,20,80.0,21.0,80.0,22.0,81.0,23.0,80.0,24.0,81.0,25.0,82.0,26.0,79.0,27.0,79.0,28.0,did not hit their potential,
+Oscar dos Santos Emboaba Júnior,Oscar,188152,"['CAM', 'RM']",Brazil,Chelsea,87,82,21,84.0,22.0,84.0,23.0,83.0,24.0,83.0,25.0,82.0,26.0,83.0,27.0,83.0,28.0,82.0,29.0,did not hit their potential,
+İlkay Gündoğan,İ. Gündoğan,186942,"['CM', 'CDM', 'CAM']",Germany,Borussia Dortmund,87,84,22,83.0,23.0,82.0,24.0,85.0,25.0,85.0,26.0,84.0,27.0,84.0,28.0,83.0,29.0,85.0,30.0,did not hit their potential,
+Toni Kroos,T. Kroos,182521,"['CAM', 'CM', 'CDM', 'LM']",Germany,FC Bayern München,87,84,23,85.0,24.0,87.0,25.0,88.0,26.0,90.0,27.0,90.0,28.0,88.0,29.0,88.0,30.0,88.0,31.0,exceeded their potential,2.0
+Alexandre Rodrigues da Silva,Alexandre Pato,180175,"['ST', 'CF']",Brazil,Sport Club Corinthians Paulista,87,80,23,,,,,80.0,26.0,,,80.0,28.0,,,,,75.0,31.0,did not hit their potential,
+Ángel Martín Correa,Á. Correa,214997,"['CAM', 'RW', 'LW']",Argentina,San Lorenzo de Almagro,86,73,18,75.0,19.0,76.0,20.0,79.0,21.0,79.0,22.0,80.0,23.0,82.0,24.0,82.0,25.0,83.0,26.0,did not hit their potential,
+Juan Fernando Quintero Paniagua,J. Quintero,210513,['CAM'],Colombia,FC Porto,86,78,20,78.0,21.0,78.0,22.0,79.0,23.0,77.0,24.0,78.0,25.0,80.0,26.0,79.0,27.0,79.0,28.0,did not hit their potential,
+Leon Christoph Goretzka,L. Goretzka,209658,"['CM', 'CDM', 'RM', 'CAM']",Germany,FC Schalke 04,86,68,18,73.0,19.0,74.0,20.0,79.0,21.0,82.0,22.0,83.0,23.0,84.0,24.0,84.0,25.0,87.0,26.0,lived to expectations,8.0
+Leandro Daniel Paredes,L. Paredes,207439,['CAM'],Argentina,Boca Juniors,86,75,19,71.0,20.0,71.0,21.0,76.0,22.0,77.0,23.0,80.0,24.0,80.0,25.0,79.0,26.0,81.0,27.0,did not hit their potential,
+Bernard Anício Caldeira Duarte,Bernard,205525,['CAM'],Brazil,Brazil,86,80,20,80.0,21.0,78.0,22.0,79.0,23.0,79.0,24.0,,,80.0,26.0,78.0,27.0,,,did not hit their potential,
+Matija Nastasić,M. Nastasić,205362,['CB'],Serbia,Manchester City,86,77,20,77.0,21.0,79.0,22.0,80.0,23.0,80.0,24.0,81.0,25.0,80.0,26.0,77.0,27.0,74.0,28.0,did not hit their potential,
+Adryan Oliveira Tavares,Adryan,205008,"['CAM', 'CF', 'LW']",Brazil,Flamengo,86,70,18,70.0,19.0,71.0,20.0,,,71.0,22.0,71.0,23.0,71.0,24.0,,,68.0,26.0,did not hit their potential,
+Viktor Gorridsen Fischer,V. Fischer,203965,['LW'],Denmark,Ajax,86,74,19,75.0,20.0,77.0,21.0,74.0,22.0,75.0,23.0,76.0,24.0,78.0,25.0,74.0,26.0,70.0,27.0,did not hit their potential,
+Julian Draxler,J. Draxler,202166,"['CAM', 'LM']",Germany,FC Schalke 04,86,80,19,80.0,20.0,80.0,21.0,84.0,22.0,84.0,23.0,83.0,24.0,83.0,25.0,80.0,26.0,80.0,27.0,did not hit their potential,
+Adam Maher,A. Maher,200223,"['CAM', 'CM']",Netherlands,PSV,86,78,19,75.0,20.0,76.0,21.0,74.0,22.0,74.0,23.0,,,76.0,25.0,75.0,26.0,75.0,27.0,did not hit their potential,
+Luis Fernando Muriel Fruto,L. Muriel,199110,"['ST', 'CF']",Colombia,Udinese Calcio,86,80,22,73.0,23.0,74.0,24.0,76.0,25.0,80.0,26.0,79.0,27.0,80.0,28.0,79.0,29.0,82.0,30.0,did not hit their potential,
+Leandro Damião da Silva dos Santos,Leandro Damião,198213,['ST'],Brazil,Internacional,86,79,23,,,,,,,,,,,74.0,29.0,73.0,30.0,74.0,31.0,did not hit their potential,
+Xherdan Shaqiri,X. Shaqiri,193348,"['RM', 'LM', 'CAM']",Switzerland,FC Bayern München,86,80,21,80.0,22.0,80.0,23.0,82.0,24.0,82.0,25.0,81.0,26.0,82.0,27.0,81.0,28.0,79.0,29.0,did not hit their potential,
+Kevin De Bruyne,K. De Bruyne,192985,"['CAM', 'CM', 'LM', 'RM']",Belgium,Chelsea,86,80,22,81.0,23.0,86.0,24.0,88.0,25.0,89.0,26.0,91.0,27.0,91.0,28.0,91.0,29.0,91.0,30.0,exceeded their potential,2.0
+Romelu Lukaku Menama,R. Lukaku,192505,['ST'],Belgium,Chelsea,86,77,20,80.0,21.0,80.0,22.0,84.0,23.0,86.0,24.0,87.0,25.0,85.0,26.0,85.0,27.0,88.0,28.0,exceeded their potential,4.0
+Adem Ljajić,A. Ljajić,190544,"['CF', 'ST', 'LW']",Serbia,Roma,86,79,21,76.0,22.0,79.0,23.0,78.0,24.0,79.0,25.0,80.0,26.0,81.0,27.0,80.0,28.0,76.0,29.0,did not hit their potential,
+Eliaquim Mangala,E. Mangala,190531,"['CB', 'LB']",France,FC Porto,86,81,22,80.0,23.0,80.0,24.0,80.0,25.0,79.0,26.0,78.0,27.0,76.0,28.0,74.0,29.0,73.0,30.0,did not hit their potential,
+Thiago Alcântara do Nascimento,Thiago,189509,"['CAM', 'CM', 'CDM']",Spain,FC Bayern München,86,81,22,81.0,23.0,83.0,24.0,84.0,25.0,88.0,26.0,86.0,27.0,87.0,28.0,85.0,29.0,86.0,30.0,exceeded their potential,4.0
+Philippe Coutinho Correia,Coutinho,189242,"['CAM', 'LM']",Brazil,Liverpool,86,80,21,81.0,22.0,84.0,23.0,85.0,24.0,86.0,25.0,88.0,26.0,86.0,27.0,83.0,28.0,82.0,29.0,exceeded their potential,3.0
+Alan Dzagoev,A. Dzagoev,187735,"['LM', 'CAM']",Russia,PFC CSKA Moscow,86,79,23,79.0,24.0,79.0,25.0,81.0,26.0,80.0,27.0,80.0,28.0,77.0,29.0,76.0,30.0,76.0,31.0,did not hit their potential,
+Yann Gérard M'Vila,Y. M'Vila,187052,"['CDM', 'CM']",France,Rubin Kazan,86,79,23,78.0,24.0,78.0,25.0,79.0,26.0,78.0,27.0,79.0,28.0,80.0,29.0,79.0,30.0,79.0,31.0,did not hit their potential,
+Erik Lamela,E. Lamela,170368,"['RW', 'CAM']",Argentina,Tottenham Hotspur,86,81,21,78.0,22.0,79.0,23.0,81.0,24.0,80.0,25.0,80.0,26.0,80.0,27.0,80.0,28.0,78.0,29.0,did not hit their potential,
+Semih Kaya,S. Kaya,167812,['CB'],Turkey,Galatasaray SK,86,79,22,79.0,23.0,77.0,24.0,73.0,25.0,73.0,26.0,72.0,27.0,72.0,28.0,,,68.0,30.0,did not hit their potential,
+Cristian Harson Bonilla Garzón,C. Bonilla,214582,['GK'],Colombia,Atlético Nacional,85,74,20,67.0,21.0,68.0,22.0,70.0,23.0,69.0,24.0,70.0,25.0,68.0,26.0,68.0,27.0,68.0,28.0,did not hit their potential,
+Adrián Ricardo Centurión,A. Centurión,211267,"['LW', 'RW']",Argentina,Racing Club,85,74,20,74.0,21.0,,,72.0,23.0,74.0,24.0,79.0,25.0,77.0,26.0,77.0,27.0,75.0,28.0,did not hit their potential,
+Bernard Malanda-Adje,Junior Malanda,210248,['CDM'],Belgium,SV Zulte Waregem,85,71,18,73.0,19.0,,,,,,,,,,,,,,,did not hit their potential,
+Siebe Schrijvers,S. Schrijvers,209780,['ST'],Belgium,KRC Genk,85,61,16,65.0,17.0,69.0,18.0,71.0,19.0,73.0,20.0,72.0,21.0,75.0,22.0,73.0,23.0,72.0,24.0,still has time,
+Victor Andrade Santos,Victor Andrade,209736,"['CF', 'LW', 'RW']",Brazil,Santos,85,67,17,,,73.0,19.0,73.0,20.0,71.0,21.0,,,,,,,,,did not hit their potential,
+Frederico Rodrigues de Paula Santos,Fred,209297,['CAM'],Brazil,Shakhtar Donetsk,85,74,20,73.0,21.0,78.0,22.0,79.0,23.0,80.0,24.0,82.0,25.0,79.0,26.0,81.0,27.0,81.0,28.0,did not hit their potential,
+Óliver Torres Muñoz,Oliver Torres,208777,"['CAM', 'CM']",Spain,Atlético de Madrid,85,74,18,74.0,19.0,79.0,20.0,79.0,21.0,79.0,22.0,78.0,23.0,78.0,24.0,77.0,25.0,77.0,26.0,did not hit their potential,
+Nicolás Federico López Alonso,N. López,207715,['ST'],Uruguay,Udinese Calcio,85,72,19,72.0,20.0,74.0,21.0,,,,,,,,,73.0,26.0,76.0,27.0,did not hit their potential,
+Luciano Darío Vietto,L. Vietto,207441,"['ST', 'CAM']",Argentina,Racing Club,85,72,19,74.0,20.0,79.0,21.0,79.0,22.0,79.0,23.0,76.0,24.0,74.0,25.0,78.0,26.0,75.0,27.0,did not hit their potential,
+Yassine Benzia,Y. Benzia,206436,['ST'],France,Olympique Lyonnais,85,67,18,66.0,19.0,67.0,20.0,73.0,21.0,76.0,22.0,75.0,23.0,73.0,24.0,71.0,25.0,70.0,26.0,did not hit their potential,
+Mattia De Sciglio,M. De Sciglio,206058,"['RB', 'LB']",Italy,AC Milan,85,77,20,76.0,21.0,76.0,22.0,76.0,23.0,76.0,24.0,78.0,25.0,77.0,26.0,78.0,27.0,76.0,28.0,did not hit their potential,
+Luke Shaw,L. Shaw,205988,['LB'],England,Southampton,85,70,17,75.0,18.0,77.0,19.0,80.0,20.0,79.0,21.0,78.0,22.0,81.0,23.0,81.0,24.0,84.0,25.0,lived to expectations,8.0
+Nathaniel Chalobah,N. Chalobah,205897,"['CDM', 'CB', 'CM']",England,Chelsea,85,70,18,68.0,19.0,68.0,20.0,68.0,21.0,75.0,22.0,76.0,23.0,75.0,24.0,74.0,25.0,74.0,26.0,did not hit their potential,
+Jürgen Locadia,J. Locadia,204366,['ST'],Netherlands,PSV,85,73,19,73.0,20.0,75.0,21.0,76.0,22.0,76.0,23.0,76.0,24.0,76.0,25.0,75.0,26.0,71.0,27.0,did not hit their potential,
+Kurt Happy Zouma,K. Zouma,204311,"['CB', 'RB']",France,AS Saint-Étienne,85,74,18,74.0,19.0,77.0,20.0,80.0,21.0,79.0,22.0,78.0,23.0,80.0,24.0,80.0,25.0,81.0,26.0,did not hit their potential,
+Tonny Emilio Trindade de Vilhena,T. Vilhena,203535,['CM'],Netherlands,Feyenoord,85,73,18,73.0,19.0,73.0,20.0,76.0,21.0,78.0,22.0,77.0,23.0,78.0,24.0,,,76.0,26.0,did not hit their potential,
+Jack Butland,J. Butland,203042,['GK'],England,Stoke City,85,71,20,72.0,21.0,74.0,22.0,82.0,23.0,81.0,24.0,81.0,25.0,78.0,26.0,74.0,27.0,73.0,28.0,did not hit their potential,
+Gustavo Lucas Domingues Piazón,Lucas Piazon,203038,"['CAM', 'LM', 'CM']",Brazil,Vitesse,85,73,19,76.0,20.0,75.0,21.0,74.0,22.0,74.0,23.0,73.0,24.0,72.0,25.0,71.0,26.0,75.0,27.0,did not hit their potential,
+Fernando Lucas Martins,Fernando,202642,"['CDM', 'CM']",Brazil,Brazil,85,76,21,76.0,22.0,76.0,23.0,78.0,24.0,79.0,25.0,78.0,26.0,78.0,27.0,79.0,28.0,77.0,29.0,did not hit their potential,
+Ola John,O. John,202101,"['LM', 'RM']",Netherlands,SL Benfica,85,77,21,74.0,22.0,75.0,23.0,74.0,24.0,,,72.0,26.0,73.0,27.0,71.0,28.0,71.0,29.0,did not hit their potential,
+Juan Manuel Sánchez Miño,J. Sánchez Miño,201953,"['LM', 'CM', 'LB']",Argentina,Boca Juniors,85,75,23,74.0,24.0,74.0,25.0,73.0,26.0,72.0,27.0,74.0,28.0,74.0,29.0,75.0,30.0,74.0,31.0,did not hit their potential,
+Ahmed Musa,A. Musa,201818,"['ST', 'RM', 'CAM']",Nigeria,PFC CSKA Moscow,85,76,20,75.0,21.0,76.0,22.0,78.0,23.0,76.0,24.0,75.0,25.0,73.0,26.0,73.0,27.0,72.0,28.0,did not hit their potential,
+Nicola Leali,N. Leali,201299,['GK'],Italy,Spezia,85,72,20,71.0,21.0,72.0,22.0,73.0,23.0,71.0,24.0,70.0,25.0,70.0,26.0,,,,,did not hit their potential,
+Juan Manuel Iturbe Arévalo,J. Iturbe,199151,"['LW', 'RW']",Argentina,FC Porto,85,74,20,77.0,21.0,77.0,22.0,77.0,23.0,76.0,24.0,76.0,25.0,72.0,26.0,72.0,27.0,,,did not hit their potential,
+Alex Oxlade-Chamberlain,A. Oxlade-Chamberlain,198784,"['RW', 'LW', 'CAM']",England,Arsenal,85,77,19,78.0,20.0,79.0,21.0,79.0,22.0,80.0,23.0,80.0,24.0,80.0,25.0,79.0,26.0,79.0,27.0,did not hit their potential,
+Lorenzo Insigne,L. Insigne,198219,"['CF', 'LW', 'CAM']",Italy,Napoli,85,76,22,78.0,23.0,81.0,24.0,83.0,25.0,85.0,26.0,88.0,27.0,87.0,28.0,85.0,29.0,86.0,30.0,exceeded their potential,4.0
+Aymen Abdennour,A. Abdennour,198076,['CB'],Tunisia,Toulouse Football Club,85,79,23,80.0,24.0,81.0,25.0,80.0,26.0,77.0,27.0,73.0,28.0,72.0,29.0,,,,,did not hit their potential,
+Gilbert Gianelli Imbula Wanga,G. Imbula,197681,['CDM'],France,Olympique de Marseille,85,74,20,73.0,21.0,77.0,22.0,79.0,23.0,77.0,24.0,75.0,25.0,75.0,26.0,,,68.0,28.0,did not hit their potential,
+Ishak Belfodil,I. Belfodil,194728,"['ST', 'LW']",Algeria,Inter,85,75,21,73.0,22.0,,,,,75.0,25.0,76.0,26.0,79.0,27.0,77.0,28.0,74.0,29.0,did not hit their potential,
+Filip Đuričić,F. Đuričić,193881,"['LW', 'CAM']",Serbia,SL Benfica,85,77,21,75.0,22.0,76.0,23.0,76.0,24.0,74.0,25.0,74.0,26.0,74.0,27.0,75.0,28.0,76.0,29.0,did not hit their potential,
+André Schürrle,A. Schürrle,193130,['LM'],Germany,Chelsea,85,80,22,81.0,23.0,80.0,24.0,81.0,25.0,80.0,26.0,78.0,27.0,76.0,28.0,,,,,did not hit their potential,
+Bernd Leno,B. Leno,192563,['GK'],Germany,Bayer 04 Leverkusen,85,80,21,82.0,22.0,84.0,23.0,86.0,24.0,85.0,25.0,84.0,26.0,84.0,27.0,85.0,28.0,83.0,29.0,lived to expectations,2.0
+Asier Illarramendi Andonegi,Illarramendi,190584,"['CM', 'CAM']",Spain,Real Madrid CF,85,80,23,79.0,24.0,79.0,25.0,79.0,26.0,81.0,27.0,84.0,28.0,83.0,29.0,80.0,30.0,79.0,31.0,lived to expectations,5.0
+Nicolas N'Koulou,N. Nkoulou,188829,['CB'],Cameroon,Olympique de Marseille,85,81,23,79.0,24.0,81.0,25.0,81.0,26.0,78.0,27.0,80.0,28.0,81.0,29.0,80.0,30.0,76.0,31.0,did not hit their potential,
+Clément Grenier,C. Grenier,187924,"['CAM', 'CM']",France,Olympique Lyonnais,85,78,22,77.0,23.0,78.0,24.0,77.0,25.0,75.0,26.0,78.0,27.0,78.0,28.0,73.0,29.0,,,did not hit their potential,
+Paulo Henrique Chagas de Lima,Ganso,187688,"['CAM', 'CM']",Brazil,São Paulo,85,77,23,,,,,81.0,26.0,80.0,27.0,75.0,28.0,,,,,,,did not hit their potential,
+Kyriakos Papadopoulos,K. Papadopoulos,184477,"['CB', 'CDM']",Greece,FC Schalke 04,85,78,21,78.0,22.0,79.0,23.0,79.0,24.0,79.0,25.0,78.0,26.0,76.0,27.0,,,71.0,29.0,did not hit their potential,
+Christian Benteke Liolo,C. Benteke,184111,['ST'],Belgium,Aston Villa,85,79,22,80.0,23.0,82.0,24.0,81.0,25.0,81.0,26.0,78.0,27.0,75.0,28.0,72.0,29.0,75.0,30.0,did not hit their potential,
+André Morgan Rami Ayew,A. Ayew,176571,['LM'],Ghana,Olympique de Marseille,85,80,23,78.0,24.0,79.0,25.0,80.0,26.0,80.0,27.0,77.0,28.0,76.0,29.0,76.0,30.0,,,did not hit their potential,
+Federico Nicolás Cartabia,F. Cartabia,216796,"['RW', 'LW', 'CAM']",Argentina,Valencia CF,84,71,20,74.0,21.0,75.0,22.0,77.0,23.0,76.0,24.0,76.0,25.0,,,,,,,did not hit their potential,
+Gerónimo Rulli,G. Rulli,215316,['GK'],Argentina,Estudiantes de La Plata,84,66,21,76.0,22.0,78.0,23.0,82.0,24.0,83.0,25.0,81.0,26.0,81.0,27.0,82.0,28.0,80.0,29.0,lived to expectations,4.0
+Levin Mete Öztunali,L. Öztunali,213134,"['CDM', 'CM']",Germany,Bayer 04 Leverkusen,84,60,17,62.0,18.0,71.0,19.0,74.0,20.0,76.0,21.0,74.0,22.0,73.0,23.0,73.0,24.0,72.0,25.0,still has time,
+Gabriel Barbosa Almeida,Gabriel,212823,"['CF', 'ST']",Brazil,Santos,84,66,16,,,,,,,76.0,20.0,,,81.0,22.0,,,,,did not hit their potential,
+Vinícius Vasconcelos Araújo,Vinícius Araújo,212785,['ST'],Brazil,Cruzeiro,84,72,20,,,,,,,70.0,24.0,,,,,,,,,did not hit their potential,
+Rafael Lima Pereira,Rafinha,212764,"['LW', 'ST']",Brazil,Flamengo,84,72,20,,,69.0,22.0,,,,,,,,,,,68.0,28.0,did not hit their potential,
+Maximilian Meyer,M. Meyer,212150,"['CAM', 'LM', 'RM']",Germany,FC Schalke 04,84,65,17,75.0,18.0,78.0,19.0,80.0,20.0,79.0,21.0,79.0,22.0,78.0,23.0,76.0,24.0,72.0,25.0,did not hit their potential,
+Lazar Marković,L. Marković,212125,"['CF', 'LM']",Serbia,SL Benfica,84,74,19,78.0,20.0,77.0,21.0,78.0,22.0,76.0,23.0,75.0,24.0,,,,,,,did not hit their potential,
+Paulo Bruno Exequiel Dybala,P. Dybala,211110,"['CF', 'CAM']",Argentina,Palermo,84,72,19,70.0,20.0,78.0,21.0,85.0,22.0,88.0,23.0,89.0,24.0,88.0,25.0,88.0,26.0,87.0,27.0,exceeded their potential,3.0
+Fabian Lukas Schär,F. Schär,210047,['CB'],Switzerland,FC Basel 1893,84,71,21,75.0,22.0,78.0,23.0,77.0,24.0,75.0,25.0,75.0,26.0,79.0,27.0,78.0,28.0,76.0,29.0,did not hit their potential,
+Nabil Ghilas,N. Ghilas,209473,['ST'],Algeria,FC Porto,84,76,23,75.0,24.0,78.0,25.0,,,72.0,27.0,71.0,28.0,70.0,29.0,,,,,did not hit their potential,
+Mohamed Salah Ghaly,M. Salah,209331,"['RM', 'CAM', 'CF', 'LM']",Egypt,FC Basel 1893,84,74,21,76.0,22.0,80.0,23.0,81.0,24.0,83.0,25.0,88.0,26.0,90.0,27.0,90.0,28.0,89.0,29.0,exceeded their potential,4.0
+Nathan Aké,N. Aké,208920,"['CB', 'CDM']",Netherlands,Chelsea,84,67,18,67.0,19.0,69.0,20.0,72.0,21.0,75.0,22.0,79.0,23.0,80.0,24.0,79.0,25.0,78.0,26.0,did not hit their potential,
+Samuele Longo,S. Longo,208251,"['ST', 'CF']",Italy,Hellas Verona,84,69,21,68.0,22.0,72.0,23.0,69.0,24.0,71.0,25.0,73.0,26.0,71.0,27.0,68.0,28.0,,,did not hit their potential,
+Imoh Ezekiel,I. Ezekiel,208022,['ST'],Nigeria,Standard de Liège,84,72,19,,,75.0,21.0,,,75.0,23.0,,,68.0,25.0,65.0,26.0,,,did not hit their potential,
+Patricio Julián Rodríguez,P. Rodríguez,207454,"['RM', 'CAM']",Argentina,Estudiantes de La Plata,84,75,23,,,,,,,71.0,27.0,,,69.0,29.0,68.0,30.0,72.0,31.0,did not hit their potential,
+Jack Grealish,J. Grealish,206517,"['LM', 'CAM']",Republic of Ireland,Aston Villa,84,62,17,65.0,18.0,72.0,19.0,72.0,20.0,73.0,21.0,74.0,22.0,77.0,23.0,80.0,24.0,84.0,25.0,lived to expectations,8.0
+Vlad Iulian Chiricheș,V. Chiricheş,205943,"['CB', 'LB']",Romania,Tottenham Hotspur,84,75,23,76.0,24.0,77.0,25.0,77.0,26.0,77.0,27.0,78.0,28.0,77.0,29.0,74.0,30.0,73.0,31.0,did not hit their potential,
+James Ward-Prowse,J. Ward-Prowse,205569,['CM'],England,Southampton,84,70,18,74.0,19.0,74.0,20.0,76.0,21.0,78.0,22.0,77.0,23.0,79.0,24.0,79.0,25.0,81.0,26.0,did not hit their potential,
+Jean-Paul Boëtius,J. Boëtius,205402,['LW'],Netherlands,Feyenoord,84,73,19,75.0,20.0,74.0,21.0,74.0,22.0,76.0,23.0,74.0,24.0,78.0,25.0,76.0,26.0,75.0,27.0,did not hit their potential,
+Karim Rekik,K. Rekik,205193,"['CB', 'LB']",Netherlands,PSV,84,73,18,73.0,19.0,75.0,20.0,73.0,21.0,73.0,22.0,79.0,23.0,78.0,24.0,75.0,25.0,74.0,26.0,did not hit their potential,
+Segundo Víctor Ibarbo Guerrero,V. Ibarbo,204550,"['ST', 'RW']",Colombia,Cagliari,84,77,23,75.0,24.0,78.0,25.0,75.0,26.0,72.0,27.0,72.0,28.0,67.0,29.0,,,,,did not hit their potential,
+José Élber Pimentel da Silva,Elber,204344,"['CAM', 'LW']",Brazil,Cruzeiro,84,69,21,,,,,,,,,,,,,,,69.0,29.0,did not hit their potential,
+M'Baye Babacar Niang,M. Niang,204077,"['RW', 'ST', 'CF', 'RM']",Senegal,AC Milan,84,75,18,74.0,19.0,74.0,20.0,78.0,21.0,78.0,22.0,77.0,23.0,77.0,24.0,78.0,25.0,76.0,26.0,did not hit their potential,
+Kelvin Mateus de Oliveira,Kelvin,203846,"['RW', 'LW', 'CAM']",Brazil,FC Porto,84,74,20,73.0,21.0,,,73.0,23.0,,,,,,,,,,,did not hit their potential,
+Weverson Leandro Oliveira Moura,Leandro,203431,"['ST', 'CF']",Brazil,Palmeiras,84,75,20,,,,,,,67.0,24.0,67.0,25.0,67.0,26.0,68.0,27.0,72.0,28.0,did not hit their potential,
+André Martín Carrillo Díaz,A. Carrillo,203299,"['RW', 'LW']",Peru,Sporting CP,84,77,22,77.0,23.0,80.0,24.0,80.0,25.0,77.0,26.0,78.0,27.0,78.0,28.0,79.0,29.0,79.0,30.0,did not hit their potential,
+Wellington Silva Sanches Aguiar,Wellington Nem,203279,"['ST', 'CF', 'CAM']",Brazil,Shakhtar Donetsk,84,72,21,74.0,22.0,73.0,23.0,75.0,24.0,,,75.0,26.0,,,,,70.0,29.0,did not hit their potential,
+Raheem Sterling,R. Sterling,202652,"['LW', 'RW']",England,Liverpool,84,76,18,80.0,19.0,82.0,20.0,82.0,21.0,82.0,22.0,85.0,23.0,88.0,24.0,88.0,25.0,88.0,26.0,exceeded their potential,5.0
+Eric Dier,E. Dier,202335,"['CB', 'CDM']",England,Sporting CP,84,73,19,73.0,20.0,74.0,21.0,78.0,22.0,82.0,23.0,80.0,24.0,79.0,25.0,78.0,26.0,79.0,27.0,did not hit their potential,
+Felipe Anderson Pereira Gomes,Felipe Anderson,201995,"['CAM', 'LM']",Brazil,Lazio,84,73,20,73.0,21.0,79.0,22.0,79.0,23.0,81.0,24.0,82.0,25.0,84.0,26.0,81.0,27.0,78.0,28.0,lived to expectations,6.0
+Roberto Firmino Barbosa de Oliveira,Roberto Firmino,201942,"['CAM', 'RM', 'LM', 'CF']",Brazil,TSG Hoffenheim,84,78,21,81.0,22.0,82.0,23.0,82.0,24.0,83.0,25.0,86.0,26.0,86.0,27.0,87.0,28.0,85.0,29.0,exceeded their potential,4.0
+Gastón Exequiel Ramírez Pereyra,G. Ramirez,201508,"['CAM', 'RM', 'LM']",Uruguay,Southampton,84,80,22,78.0,23.0,78.0,24.0,78.0,25.0,78.0,26.0,79.0,27.0,78.0,28.0,77.0,29.0,77.0,30.0,did not hit their potential,
+Geoffrey Edwin Kondogbia,G. Kondogbia,201455,"['CDM', 'CM']",France,France,84,78,20,75.0,21.0,78.0,22.0,76.0,23.0,76.0,24.0,82.0,25.0,81.0,26.0,79.0,27.0,79.0,28.0,did not hit their potential,
+Mauro Emanuel Icardi Rivero,M. Icardi,201399,"['ST', 'CF']",Argentina,Inter,84,75,20,76.0,21.0,79.0,22.0,82.0,23.0,84.0,24.0,87.0,25.0,85.0,26.0,85.0,27.0,83.0,28.0,exceeded their potential,4.0
+Pedro Mba Obiang Avomo,Pedro Obiang,200054,"['CM', 'CAM', 'CDM']",Spain,U.C. Sampdoria,84,74,21,73.0,22.0,74.0,23.0,76.0,24.0,77.0,25.0,77.0,26.0,77.0,27.0,76.0,28.0,75.0,29.0,did not hit their potential,
+Marco van Ginkel,M. van Ginkel,199767,['CM'],Netherlands,Chelsea,84,76,20,76.0,21.0,75.0,22.0,77.0,23.0,78.0,24.0,79.0,25.0,77.0,26.0,75.0,27.0,76.0,28.0,did not hit their potential,
+Adrián Ezequiel Cirigliano,E. Cirigliano,199666,"['CDM', 'CM']",Argentina,Hellas Verona,84,72,21,72.0,22.0,69.0,23.0,,,,,,,,,,,66.0,29.0,did not hit their potential,
+Dennis Praet,D. Praet,199652,['CAM'],Belgium,RSC Anderlecht,84,72,19,72.0,20.0,77.0,21.0,78.0,22.0,76.0,23.0,76.0,24.0,76.0,25.0,76.0,26.0,78.0,27.0,did not hit their potential,
+Sergio Roberto Carnicer,Sergi Roberto,199564,"['CM', 'CDM']",Spain,FC Barcelona,84,74,21,75.0,22.0,78.0,23.0,79.0,24.0,81.0,25.0,84.0,26.0,82.0,27.0,83.0,28.0,81.0,29.0,lived to expectations,5.0
+Ross Barkley,R. Barkley,199189,"['CAM', 'CM', 'RM']",England,Everton,84,72,19,78.0,20.0,79.0,21.0,81.0,22.0,81.0,23.0,79.0,24.0,79.0,25.0,78.0,26.0,78.0,27.0,did not hit their potential,
+Lacina Emeghara Traoré,L. Traoré,199074,['ST'],Côte d'Ivoire,FC Anzhi Makhachkala,84,78,22,78.0,24.0,75.0,25.0,75.0,26.0,74.0,27.0,,,70.0,29.0,,,,,did not hit their potential,
+Wilfried Zaha,W. Zaha,198717,"['RW', 'LW', 'ST']",England,Manchester United,84,74,20,72.0,21.0,77.0,22.0,79.0,23.0,81.0,24.0,82.0,25.0,83.0,26.0,83.0,27.0,82.0,28.0,lived to expectations,6.0
+Rodrigo Moreno Machado,Rodrigo,198329,"['ST', 'CF']",Spain,SL Benfica,84,77,22,80.0,23.0,79.0,24.0,78.0,25.0,78.0,26.0,84.0,27.0,83.0,28.0,82.0,29.0,79.0,30.0,lived to expectations,5.0
+Sergio Ezequiel Araújo,S. Araujo,198145,"['CF', 'ST', 'LM']",Argentina,Club Atlético Tigre,84,73,21,68.0,22.0,75.0,23.0,75.0,24.0,74.0,25.0,74.0,26.0,70.0,27.0,69.0,28.0,72.0,29.0,did not hit their potential,
+Luís Miguel Afonso Fernandes,Pizzi,197965,"['LM', 'CAM']",Portugal,RCD Espanyol de Barcelona,84,76,23,76.0,24.0,79.0,25.0,81.0,26.0,82.0,27.0,83.0,28.0,84.0,29.0,84.0,30.0,81.0,31.0,lived to expectations,5.0
+David Olatukunbo Alaba,D. Alaba,197445,"['LB', 'CM', 'CDM', 'LM']",Austria,FC Bayern München,84,81,21,82.0,22.0,85.0,23.0,87.0,24.0,86.0,25.0,85.0,26.0,85.0,27.0,84.0,28.0,84.0,29.0,exceeded their potential,2.0
+Phil Jones,P. Jones,194957,"['RB', 'CB', 'CM', 'CDM']",England,Manchester United,84,78,21,79.0,22.0,80.0,23.0,79.0,24.0,79.0,25.0,80.0,26.0,79.0,27.0,75.0,28.0,74.0,29.0,did not hit their potential,
+Antoine Griezmann,A. Griezmann,194765,"['LW', 'CAM', 'RW']",France,Real Sociedad,84,80,22,82.0,23.0,83.0,24.0,88.0,25.0,88.0,26.0,89.0,27.0,89.0,28.0,87.0,29.0,85.0,30.0,exceeded their potential,2.0
+Jorge Resurrección Merodio,Koke,193747,"['CAM', 'RM', 'CM']",Spain,Atlético de Madrid,84,81,21,82.0,22.0,83.0,23.0,84.0,24.0,84.0,25.0,85.0,26.0,85.0,27.0,85.0,28.0,85.0,29.0,lived to expectations,2.0
+Mattia Destro,M. Destro,193338,['ST'],Italy,Roma,84,76,22,77.0,23.0,78.0,24.0,78.0,25.0,76.0,26.0,76.0,27.0,75.0,28.0,71.0,29.0,74.0,30.0,did not hit their potential,
+Ricardo Goulart Pereira,Ricardo Goulart,192064,"['CAM', 'CF']",Brazil,Cruzeiro,84,75,22,,,,,,,,,79.0,27.0,,,80.0,29.0,79.0,30.0,did not hit their potential,
+Alex Sandro Lobo Silva,Alex Sandro,191043,['LB'],Brazil,FC Porto,84,79,22,79.0,23.0,82.0,24.0,84.0,25.0,86.0,26.0,86.0,27.0,85.0,28.0,85.0,29.0,83.0,30.0,exceeded their potential,3.0
+Eduardo Salvio,E. Salvio,190972,['RM'],Argentina,SL Benfica,84,79,22,79.0,23.0,80.0,24.0,79.0,25.0,80.0,26.0,81.0,27.0,80.0,28.0,81.0,29.0,80.0,30.0,did not hit their potential,
+Jeroen Zoet,J. Zoet,190778,['GK'],Netherlands,PSV,84,75,22,77.0,23.0,78.0,24.0,80.0,25.0,79.0,26.0,80.0,27.0,80.0,28.0,76.0,29.0,75.0,30.0,did not hit their potential,
+Douglas Costa De Souza,Douglas Costa,190483,"['CAM', 'RW', 'LW']",Brazil,Shakhtar Donetsk,84,78,22,80.0,23.0,81.0,24.0,84.0,25.0,82.0,26.0,86.0,27.0,84.0,28.0,84.0,29.0,,,exceeded their potential,3.0
+Sergio Canales Madrazo,Sergio Canales,190286,"['CAM', 'LM', 'CF']",Spain,Valencia CF,84,77,22,77.0,23.0,79.0,24.0,79.0,25.0,79.0,26.0,79.0,27.0,84.0,28.0,82.0,29.0,83.0,30.0,lived to expectations,6.0
+Luuk De Jong,L. de Jong,189805,"['ST', 'CAM']",Netherlands,Borussia Mönchengladbach,84,78,22,75.0,23.0,79.0,24.0,79.0,25.0,76.0,26.0,78.0,27.0,82.0,28.0,80.0,29.0,79.0,30.0,did not hit their potential,
+Kevin Strootman,K. Strootman,189712,['CM'],Netherlands,Roma,84,79,23,81.0,24.0,80.0,25.0,81.0,26.0,84.0,27.0,83.0,28.0,80.0,29.0,77.0,30.0,76.0,31.0,lived to expectations,4.0
+Vladimir Weiss,V. Weiss,189679,"['LW', 'RW', 'CAM', 'LM']",Slovakia,Olympiacos CFP,84,79,23,,,,,,,,,,,,,,,,,did not hit their potential,
+Giacomo Bonaventura,G. Bonaventura,189125,"['LM', 'CAM']",Italy,Atalanta,84,79,23,79.0,24.0,78.0,25.0,82.0,26.0,83.0,27.0,82.0,28.0,82.0,29.0,80.0,30.0,78.0,31.0,lived to expectations,4.0
+Lewis Holtby,L. Holtby,188154,"['CAM', 'CM', 'CDM', 'RM']",Germany,Tottenham Hotspur,84,78,22,77.0,23.0,76.0,24.0,78.0,25.0,77.0,26.0,76.0,27.0,,,72.0,29.0,71.0,30.0,did not hit their potential,
+Omar El Kaddouri,O. El Kaddouri,187702,"['CAM', 'CF']",Morocco,Torino F.C.,84,73,22,74.0,23.0,77.0,24.0,78.0,25.0,78.0,26.0,76.0,27.0,76.0,28.0,73.0,29.0,73.0,30.0,did not hit their potential,
+Sofiane Feghouli,S. Feghouli,184881,"['RM', 'CAM', 'LM']",Algeria,Valencia CF,84,81,23,81.0,24.0,81.0,25.0,80.0,26.0,79.0,27.0,79.0,28.0,80.0,29.0,79.0,30.0,76.0,31.0,did not hit their potential,
+Albin Ekdal,A. Ekdal,181318,['CM'],Sweden,Sweden,84,75,23,74.0,24.0,75.0,25.0,76.0,26.0,76.0,27.0,76.0,28.0,76.0,29.0,75.0,30.0,76.0,31.0,did not hit their potential,
+Miralem Pjanic,M. Pjanić,180206,"['CM', 'CAM']",Bosnia and Herzegovina,Roma,84,78,23,83.0,24.0,84.0,25.0,85.0,26.0,85.0,27.0,86.0,28.0,86.0,29.0,85.0,30.0,82.0,31.0,exceeded their potential,1.0
+Bojan Krkic Perez,Bojan,176993,"['RW', 'ST', 'LW']",Spain,Ajax,84,79,22,77.0,23.0,81.0,24.0,82.0,25.0,79.0,26.0,75.0,27.0,74.0,28.0,73.0,29.0,71.0,30.0,did not hit their potential,
+Sebastian Cristoforo,S. Cristóforo,219712,"['CDM', 'CM']",Uruguay,Sevilla FC,83,73,19,71.0,20.0,71.0,21.0,78.0,22.0,76.0,23.0,75.0,24.0,75.0,25.0,74.0,26.0,74.0,27.0,did not hit their potential,
+Rafael Silva,Rafa,216547,"['RW', 'LW']",Portugal,SC Braga,83,71,20,77.0,21.0,78.0,22.0,80.0,23.0,78.0,24.0,79.0,25.0,82.0,26.0,83.0,27.0,82.0,28.0,lived to expectations,6.0
+Tin Jedvaj,T. Jedvaj,215930,"['CB', 'CDM', 'RB']",Croatia,Roma,83,69,17,66.0,18.0,75.0,19.0,75.0,20.0,76.0,21.0,76.0,22.0,75.0,23.0,75.0,24.0,73.0,25.0,still has time,
+Martin Tonso,M. Tonso,215080,['RW'],Argentina,Newell's Old Boys,83,74,23,70.0,24.0,70.0,25.0,70.0,26.0,,,,,,,,,,,did not hit their potential,
+Diego Laxalt,D. Laxalt,213400,['CM'],Uruguay,Bologna,83,68,20,68.0,21.0,70.0,22.0,74.0,23.0,78.0,24.0,78.0,25.0,78.0,26.0,77.0,27.0,73.0,28.0,did not hit their potential,
+Jonathan Tah,J. Tah,213331,"['CB', 'RB']",Germany,Hamburger SV,83,60,17,68.0,18.0,73.0,19.0,79.0,20.0,82.0,21.0,83.0,22.0,83.0,23.0,79.0,24.0,78.0,25.0,lived to expectations,4.0
+Joao Mario Ndc Eduardo,João Mário,212814,['CM'],Portugal,Sporting CP,83,71,20,73.0,21.0,78.0,22.0,83.0,23.0,83.0,24.0,81.0,25.0,81.0,26.0,80.0,27.0,80.0,28.0,lived to expectations,3.0
+Marcos Paulo Mesquita Lopes,Marcos Lopes,212692,['CAM'],Portugal,Manchester City,83,63,17,65.0,18.0,73.0,19.0,76.0,20.0,77.0,21.0,80.0,22.0,80.0,23.0,78.0,24.0,76.0,25.0,did not hit their potential,
+Domenico Berardi,D. Berardi,210935,"['RW', 'LW']",Italy,U.S. Sassuolo Calcio,83,72,18,74.0,19.0,80.0,20.0,82.0,21.0,81.0,22.0,78.0,23.0,78.0,24.0,80.0,25.0,82.0,26.0,lived to expectations,3.0
+Alessio Romagnoli,A. Romagnoli,210413,['CB'],Italy,Roma,83,68,18,71.0,19.0,75.0,20.0,78.0,21.0,79.0,22.0,82.0,23.0,83.0,24.0,83.0,25.0,82.0,26.0,lived to expectations,5.0
+Angelo Henriquez,A. Henríquez,210296,['ST'],Chile,Real Zaragoza,83,72,19,,,73.0,21.0,,,,,72.0,24.0,71.0,25.0,,,,,did not hit their potential,
+Adrien Rabiot,A. Rabiot,210008,['CM'],France,Paris Saint-Germain,83,70,18,73.0,19.0,76.0,20.0,78.0,21.0,80.0,22.0,83.0,23.0,83.0,24.0,81.0,25.0,81.0,26.0,lived to expectations,5.0
+Raphael Guerreiro,R. Guerreiro,209889,"['LB', 'LM']",France,FC Lorient,83,66,19,70.0,20.0,76.0,21.0,76.0,22.0,81.0,23.0,79.0,24.0,81.0,25.0,84.0,26.0,84.0,27.0,lived to expectations,7.0
+Rondinelly De Andrade Silva,Rondinelly,209266,"['RM', 'LM', 'CM']",Brazil,Palmeiras,83,69,22,,,,,,,,,,,,,,,,,did not hit their potential,
+Emre Can,E. Can,208333,"['CM', 'CDM', 'LM', 'LB']",Germany,Bayer 04 Leverkusen,83,68,19,74.0,20.0,75.0,21.0,80.0,22.0,79.0,23.0,80.0,24.0,81.0,25.0,82.0,26.0,82.0,27.0,lived to expectations,7.0
+Eduardo Vargas,E. Vargas,206655,"['ST', 'LW']",Chile,Grêmio,83,77,23,77.0,24.0,78.0,25.0,77.0,26.0,75.0,27.0,76.0,28.0,77.0,29.0,75.0,30.0,,,did not hit their potential,
+Will Hughes,W. Hughes,206516,"['CM', 'LM']",England,Derby County,83,68,18,70.0,19.0,73.0,20.0,74.0,21.0,75.0,22.0,76.0,23.0,77.0,24.0,76.0,25.0,76.0,26.0,did not hit their potential,
+Rodrigo F De Souza Santos,Frauches,206007,['CB'],Brazil,Flamengo,83,67,20,,,,,,,,,,,,,,,,,did not hit their potential,
+Jetro Willems,J. Willems,205995,['LB'],Netherlands,PSV,83,72,19,72.0,20.0,78.0,21.0,79.0,22.0,77.0,23.0,76.0,24.0,75.0,25.0,77.0,26.0,73.0,27.0,did not hit their potential,
+Stefanos Kapino,S. Kapino,205878,['GK'],Greece,Panathinaikos FC,83,72,19,72.0,20.0,73.0,21.0,75.0,22.0,77.0,23.0,73.0,24.0,73.0,25.0,73.0,26.0,73.0,27.0,did not hit their potential,
+Christian Atsu,C. Atsu,205601,['LW'],Ghana,FC Porto,83,76,21,75.0,22.0,76.0,23.0,76.0,24.0,75.0,25.0,75.0,26.0,74.0,27.0,74.0,28.0,72.0,29.0,did not hit their potential,
+Luiz Frello Filho Jorge,Jorginho,205498,['CM'],Brazil,Hellas Verona,83,72,21,75.0,22.0,77.0,23.0,81.0,24.0,81.0,25.0,84.0,26.0,83.0,27.0,83.0,28.0,85.0,29.0,exceeded their potential,5.0
+Arkadiusz Milik,A. Milik,205175,"['ST', 'CF', 'LW']",Poland,FC Augsburg,83,68,19,69.0,20.0,77.0,21.0,79.0,22.0,79.0,23.0,80.0,24.0,83.0,25.0,81.0,26.0,81.0,27.0,lived to expectations,6.0
+Samed Yesil,S. Yesil,204782,"['ST', 'CF']",Germany,Liverpool,83,64,19,63.0,20.0,64.0,21.0,,,,,63.0,24.0,,,,,,,did not hit their potential,
+Stefan Savic,S. Savić,204639,['CB'],Montenegro,Fiorentina,83,76,22,78.0,23.0,81.0,24.0,82.0,25.0,82.0,26.0,83.0,27.0,82.0,28.0,81.0,29.0,84.0,30.0,lived to expectations,3.0
+Michy Batshuayi,M. Batshuayi,204529,['ST'],Belgium,Standard de Liège,83,71,19,76.0,20.0,78.0,21.0,81.0,22.0,80.0,23.0,81.0,24.0,79.0,25.0,78.0,26.0,76.0,27.0,did not hit their potential,
+Inigo Martinez Berridi,Iñigo Martínez,204525,['CB'],Spain,Real Sociedad,83,80,22,80.0,23.0,81.0,24.0,81.0,25.0,82.0,26.0,79.0,27.0,80.0,28.0,80.0,29.0,81.0,30.0,lived to expectations,4.0
+Jores Okore,J. Okore,204163,"['CB', 'RB']",Denmark,Aston Villa,83,73,20,73.0,21.0,77.0,22.0,77.0,23.0,73.0,24.0,72.0,25.0,72.0,26.0,,,70.0,28.0,did not hit their potential,
+Lucas Andersen,L. Andersen,203903,"['RW', 'LW']",Denmark,Ajax,83,69,18,71.0,19.0,73.0,20.0,72.0,21.0,76.0,22.0,73.0,23.0,75.0,24.0,76.0,25.0,73.0,26.0,did not hit their potential,
+Massimo Bruno,M. Bruno,203633,"['RW', 'RM']",Belgium,RSC Anderlecht,83,72,19,72.0,20.0,74.0,21.0,72.0,22.0,72.0,23.0,71.0,24.0,72.0,25.0,73.0,26.0,,,did not hit their potential,
+Leonardo Bittencourt,L. Bittencourt,203106,"['CAM', 'CM', 'RM', 'CF']",Germany,Hannover 96,83,69,19,74.0,20.0,75.0,21.0,77.0,22.0,78.0,23.0,79.0,24.0,77.0,25.0,77.0,26.0,75.0,27.0,did not hit their potential,
+Kyle Ebecilio,K. Ebecilio,202802,"['CM', 'CAM']",Netherlands,FC Twente,83,65,19,72.0,20.0,72.0,21.0,70.0,22.0,,,66.0,24.0,,,,,,,did not hit their potential,
+Simone Zaza,S. Zaza,202685,['ST'],Italy,U.S. Sassuolo Calcio,83,72,22,74.0,23.0,78.0,24.0,80.0,25.0,80.0,26.0,82.0,27.0,80.0,28.0,77.0,29.0,76.0,30.0,lived to expectations,5.0
+Jesus Fernandez Saez,Suso,202651,"['RM', 'RM', 'CAM', 'LM']",Spain,Unión Deportiva Almería,83,74,19,74.0,20.0,74.0,21.0,77.0,22.0,82.0,23.0,82.0,24.0,82.0,25.0,81.0,26.0,82.0,27.0,lived to expectations,4.0
+Luiz Eduardo Felix Da Costa,Luiz Eduardo,202561,"['CB', 'LB', 'RB']",Brazil,Clube Náutico Capibaribe,83,67,20,,,,,,,,,,,,,,,,,did not hit their potential,
+Jese Rodriguez Ruiz,Jesé Rodríguez,202515,"['ST', 'CF', 'LM', 'RM']",Spain,Real Madrid CF,83,72,20,76.0,21.0,78.0,22.0,80.0,23.0,77.0,24.0,76.0,25.0,75.0,26.0,72.0,27.0,71.0,28.0,did not hit their potential,
+Ryo Miyaichi,R. Miyaichi,202053,"['RW', 'LW', 'RM']",Japan,Arsenal,83,71,20,67.0,21.0,69.0,22.0,70.0,23.0,67.0,24.0,65.0,25.0,68.0,26.0,69.0,27.0,67.0,28.0,did not hit their potential,
+Vladimir Darida,V. Darida,201262,"['CM', 'CDM', 'CAM']",Czech Republic,Sport-Club Freiburg,83,77,22,77.0,23.0,76.0,24.0,79.0,25.0,79.0,26.0,78.0,27.0,76.0,28.0,77.0,29.0,76.0,30.0,did not hit their potential,
+Andre Renato Soares Martins,André Martins,200962,"['CM', 'CAM']",Portugal,Sporting CP,83,74,23,75.0,24.0,76.0,25.0,76.0,26.0,74.0,27.0,,,73.0,29.0,70.0,30.0,70.0,31.0,did not hit their potential,
+Juan Guilherme Nunes Jesus,Juan Jesus,200752,['CB'],Brazil,Inter,83,78,22,78.0,23.0,79.0,24.0,75.0,25.0,77.0,26.0,78.0,27.0,76.0,28.0,74.0,29.0,74.0,30.0,did not hit their potential,
+Kevin Volland,K. Volland,200610,"['CF', 'ST', 'CAM', 'LW']",Germany,TSG Hoffenheim,83,77,20,79.0,21.0,80.0,22.0,81.0,23.0,80.0,24.0,81.0,25.0,82.0,26.0,81.0,27.0,83.0,28.0,lived to expectations,6.0
+Thomas Ince,T. Ince,200521,"['RW', 'LW']",England,Blackpool,83,74,21,72.0,22.0,74.0,23.0,73.0,24.0,74.0,25.0,73.0,26.0,72.0,27.0,70.0,28.0,68.0,29.0,did not hit their potential,
+Lucas Digne,L. Digne,200458,['LB'],France,Paris Saint-Germain,83,75,19,76.0,20.0,76.0,21.0,79.0,22.0,79.0,23.0,78.0,24.0,83.0,25.0,84.0,26.0,84.0,27.0,lived to expectations,6.0
+Jan Oblak,J. Oblak,200389,['GK'],Slovenia,SL Benfica,83,74,20,77.0,21.0,81.0,22.0,87.0,23.0,88.0,24.0,90.0,25.0,91.0,26.0,91.0,27.0,91.0,28.0,exceeded their potential,3.0
+Cristian Tello Herrera,Cristian Tello,200315,"['LW', 'RW', 'CF', 'ST']",Spain,FC Barcelona,83,79,21,78.0,22.0,79.0,23.0,78.0,24.0,77.0,25.0,80.0,26.0,80.0,27.0,78.0,28.0,79.0,29.0,did not hit their potential,
+Heung Min Son,H. Son,200104,"['ST', 'LM', 'RM', 'CF']",Korea Republic,Bayer 04 Leverkusen,83,76,20,76.0,21.0,77.0,22.0,78.0,23.0,82.0,24.0,84.0,25.0,87.0,26.0,87.0,27.0,89.0,28.0,exceeded their potential,4.0
+Romulo Borges Monteiro,Rômulo,199935,"['CDM', 'CM']",Brazil,Spartak Moskva,83,75,22,75.0,23.0,76.0,24.0,77.0,25.0,,,,,,,76.0,29.0,,,did not hit their potential,
+Granit Xhaka,G. Xhaka,199503,"['CM', 'CAM']",Switzerland,Borussia Mönchengladbach,83,74,20,76.0,21.0,81.0,22.0,84.0,23.0,82.0,24.0,81.0,25.0,81.0,26.0,80.0,27.0,79.0,28.0,lived to expectations,3.0
+Danilo Luiz Da Silva,Danilo,199304,['RB'],Brazil,FC Porto,83,77,21,77.0,22.0,81.0,23.0,80.0,24.0,78.0,25.0,79.0,26.0,79.0,27.0,79.0,28.0,81.0,29.0,did not hit their potential,
+Pablo Sarabia Garcia,Pablo Sarabia,198950,"['RM', 'LM']",Spain,Getafe CF,83,70,21,70.0,22.0,73.0,23.0,78.0,24.0,80.0,25.0,81.0,26.0,83.0,27.0,81.0,28.0,80.0,29.0,lived to expectations,6.0
+Jonathan Williams,J. Williams,198776,"['CAM', 'LW', 'RW', 'CM']",Wales,Wales,83,70,19,70.0,20.0,72.0,21.0,73.0,22.0,71.0,23.0,70.0,24.0,69.0,25.0,69.0,26.0,68.0,27.0,did not hit their potential,
+Saphir Taider,S. Taïder,198760,"['CM', 'CDM', 'CAM']",Algeria,Inter,83,74,21,75.0,22.0,75.0,23.0,75.0,24.0,75.0,25.0,75.0,26.0,76.0,27.0,75.0,28.0,,,did not hit their potential,
+Nathan Redmond,N. Redmond,198719,"['RM', 'LM']",England,Norwich City,83,70,19,73.0,20.0,74.0,21.0,75.0,22.0,77.0,23.0,75.0,24.0,77.0,25.0,78.0,26.0,76.0,27.0,did not hit their potential,
+Josh Mceachran,J. McEachran,198704,"['CM', 'CDM']",England,Chelsea,83,71,20,70.0,21.0,72.0,22.0,72.0,23.0,69.0,24.0,69.0,25.0,,,68.0,27.0,64.0,28.0,did not hit their potential,
+Manolo Gabbiadini,M. Gabbiadini,198683,"['ST', 'CF', 'CAM']",Italy,U.C. Sampdoria,83,75,21,75.0,22.0,78.0,23.0,81.0,24.0,79.0,25.0,77.0,26.0,76.0,27.0,75.0,28.0,75.0,29.0,did not hit their potential,
+Matej Vydra,M. Vydra,198331,"['ST', 'RW', 'LW']",Czech Republic,West Bromwich Albion,83,74,21,73.0,22.0,73.0,23.0,72.0,24.0,70.0,25.0,74.0,26.0,73.0,27.0,73.0,28.0,74.0,29.0,did not hit their potential,
+Stefan De Vrij,S. de Vrij,198176,['CB'],Netherlands,Feyenoord,83,76,21,78.0,22.0,82.0,23.0,82.0,24.0,83.0,25.0,84.0,26.0,84.0,27.0,84.0,28.0,85.0,29.0,exceeded their potential,2.0
+Mattia Perin,M. Perin,198009,['GK'],Italy,Genoa,83,76,20,76.0,21.0,81.0,22.0,83.0,23.0,83.0,24.0,84.0,25.0,82.0,26.0,82.0,27.0,80.0,28.0,lived to expectations,3.0
+Jordan Ayew,J. Ayew,197756,"['ST', 'RW']",Ghana,Olympique de Marseille,83,75,21,73.0,22.0,76.0,23.0,77.0,24.0,76.0,25.0,77.0,26.0,75.0,27.0,77.0,28.0,75.0,29.0,did not hit their potential,
+Luca Marrone,L. Marrone,194753,"['CB', 'CDM']",Italy,Juventus,83,70,23,70.0,24.0,72.0,25.0,74.0,26.0,73.0,27.0,73.0,28.0,71.0,29.0,70.0,30.0,70.0,31.0,did not hit their potential,
+Martin Montoya Torralbo,Montoya,194644,['RB'],Spain,FC Barcelona,83,77,22,77.0,23.0,79.0,24.0,79.0,25.0,77.0,26.0,78.0,27.0,76.0,28.0,77.0,29.0,75.0,30.0,did not hit their potential,
+Francesco Bardi,F. Bardi,193786,['GK'],Italy,Livorno,83,74,21,74.0,22.0,75.0,23.0,76.0,24.0,76.0,25.0,74.0,26.0,73.0,27.0,,,73.0,29.0,did not hit their potential,
+Izet Hajrovic,I. Hajrovic,193780,['RM'],Bosnia and Herzegovina,Grasshopper Club Zürich,83,74,21,75.0,22.0,74.0,23.0,72.0,24.0,72.0,25.0,68.0,26.0,72.0,27.0,68.0,28.0,,,did not hit their potential,
+Adam Matthews,A. Matthews,193768,"['RB', 'RM', 'LB']",Wales,Celtic,83,71,21,72.0,22.0,74.0,23.0,72.0,24.0,71.0,25.0,69.0,26.0,,,,,67.0,29.0,did not hit their potential,
+Mario Figueira Fernandes,Mário Fernandes,193525,['RB'],Brazil,PFC CSKA Moscow,83,75,22,76.0,23.0,79.0,24.0,80.0,25.0,81.0,26.0,81.0,27.0,82.0,28.0,82.0,29.0,82.0,30.0,lived to expectations,6.0
+Remy Cabella,R. Cabella,193476,['CAM'],France,Montpellier Hérault SC,83,76,23,79.0,24.0,79.0,25.0,80.0,26.0,75.0,27.0,78.0,28.0,,,,,,,did not hit their potential,
+Alphonse Areola,A. Aréola,193105,['GK'],France,Racing Club de Lens,83,65,20,72.0,21.0,74.0,22.0,81.0,23.0,79.0,24.0,81.0,25.0,82.0,26.0,82.0,27.0,82.0,28.0,lived to expectations,6.0
+Ciro Immobile,C. Immobile,192387,['ST'],Italy,Torino F.C.,83,75,23,80.0,24.0,79.0,25.0,80.0,26.0,82.0,27.0,87.0,28.0,86.0,29.0,87.0,30.0,87.0,31.0,exceeded their potential,4.0
+Connor Wickham,C. Wickham,191089,['ST'],England,Sunderland,83,69,20,72.0,21.0,73.0,22.0,74.0,23.0,72.0,24.0,72.0,25.0,70.0,26.0,69.0,27.0,66.0,28.0,did not hit their potential,
+Chris Smalling,C. Smalling,189881,"['CB', 'RB']",England,Manchester United,83,78,23,76.0,24.0,79.0,25.0,84.0,26.0,81.0,27.0,81.0,28.0,80.0,29.0,79.0,30.0,78.0,31.0,lived to expectations,3.0
+Tom Cleverley,T. Cleverley,189725,"['CAM', 'CM', 'LM', 'CDM']",England,Manchester United,83,78,23,74.0,24.0,77.0,25.0,78.0,26.0,76.0,27.0,76.0,28.0,76.0,29.0,75.0,30.0,74.0,31.0,did not hit their potential,
+Iker Muniain Goni,Muniaín,189575,"['CAM', 'LW']",Spain,Athletic Club de Bilbao,83,78,20,80.0,21.0,80.0,22.0,78.0,23.0,78.0,24.0,80.0,25.0,82.0,26.0,83.0,27.0,83.0,28.0,lived to expectations,6.0
+Nelson Miguel Castro Oliveira,Nélson Oliveira,189303,"['ST', 'CF']",Portugal,Stade Rennais FC,83,73,21,73.0,22.0,74.0,23.0,,,74.0,25.0,73.0,26.0,73.0,27.0,75.0,28.0,73.0,29.0,did not hit their potential,
+Aleksandar Dragovic,A. Dragović,189060,['CB'],Austria,Austria,83,74,22,75.0,23.0,78.0,24.0,79.0,25.0,77.0,26.0,77.0,27.0,77.0,28.0,75.0,29.0,76.0,30.0,did not hit their potential,
+Kevin Trapp,K. Trapp,188943,['GK'],Germany,Eintracht Frankfurt,83,79,22,80.0,23.0,82.0,24.0,83.0,25.0,82.0,26.0,80.0,27.0,83.0,28.0,83.0,29.0,82.0,30.0,lived to expectations,2.0
+Abel Hernandez,A. Hernández,188484,['ST'],Uruguay,Uruguay,83,74,22,72.0,23.0,74.0,24.0,76.0,25.0,75.0,26.0,75.0,27.0,,,,,73.0,30.0,did not hit their potential,
+Kyle Walker,K. Walker,188377,['RB'],England,Tottenham Hotspur,83,79,23,77.0,24.0,79.0,25.0,81.0,26.0,83.0,27.0,84.0,28.0,84.0,29.0,85.0,30.0,85.0,31.0,exceeded their potential,4.0
+James Mccarthy,J. McCarthy,188253,"['CM', 'CDM', 'CAM']",Republic of Ireland,Republic of Ireland,83,75,22,79.0,23.0,80.0,24.0,81.0,25.0,80.0,26.0,78.0,27.0,75.0,28.0,76.0,29.0,74.0,30.0,did not hit their potential,
+Leroy Fer,L. Fer,186351,"['CM', 'CDM', 'CAM']",Netherlands,Norwich City,83,76,23,76.0,24.0,76.0,25.0,76.0,26.0,77.0,27.0,76.0,28.0,73.0,29.0,76.0,30.0,75.0,31.0,did not hit their potential,
+Fabio Borini,F. Borini,186200,"['ST', 'LW', 'RW']",Italy,Liverpool,83,75,22,74.0,23.0,76.0,24.0,76.0,25.0,76.0,26.0,76.0,27.0,76.0,28.0,76.0,29.0,76.0,30.0,did not hit their potential,
+Wojciech Szczesny,W. Szczęsny,186153,['GK'],Poland,Arsenal,83,79,23,80.0,24.0,79.0,25.0,79.0,26.0,82.0,27.0,83.0,28.0,86.0,29.0,87.0,30.0,87.0,31.0,exceeded their potential,4.0
+Danny Welbeck,D. Welbeck,186146,"['ST', 'CF', 'LM']",England,Manchester United,83,78,22,78.0,23.0,79.0,24.0,80.0,25.0,80.0,26.0,77.0,27.0,78.0,28.0,74.0,29.0,73.0,30.0,did not hit their potential,
+Miroslav Stoch,M. Stoch,186119,"['LW', 'LM', 'RM', 'RW']",Slovakia,PAOK,83,78,23,,,76.0,25.0,74.0,26.0,,,74.0,28.0,76.0,29.0,74.0,30.0,,,did not hit their potential,
+Kieran Gibbs,K. Gibbs,186115,['LB'],England,Arsenal,83,78,23,78.0,24.0,80.0,25.0,80.0,26.0,78.0,27.0,77.0,28.0,75.0,29.0,75.0,30.0,72.0,31.0,did not hit their potential,
+Mamadou Sakho,M. Sakho,183285,['CB'],France,Paris Saint-Germain,83,81,23,81.0,24.0,81.0,25.0,82.0,26.0,81.0,27.0,80.0,28.0,79.0,29.0,76.0,30.0,75.0,31.0,lived to expectations,3.0
+Georginio Wijnaldum,G. Wijnaldum,181291,"['CAM', 'RW']",Netherlands,PSV,83,78,22,78.0,23.0,80.0,24.0,81.0,25.0,82.0,26.0,82.0,27.0,84.0,28.0,85.0,29.0,84.0,30.0,exceeded their potential,4.0
+Daniel Sturridge,D. Sturridge,171833,"['ST', 'RW']",England,Liverpool,83,80,23,83.0,24.0,83.0,25.0,84.0,26.0,82.0,27.0,80.0,28.0,,,,,75.0,31.0,lived to expectations,1.0
+Vinicius De Freitas Ribeiro,Vinícius,216410,"['LB', 'LM']",Brazil,Lazio,82,67,20,63.0,21.0,66.0,22.0,,,67.0,24.0,,,,,,,,,did not hit their potential,
+Lucas Melano,L. Melano,215266,['ST'],Argentina,Club Atlético Lanús,82,70,20,72.0,21.0,73.0,22.0,72.0,23.0,70.0,24.0,70.0,25.0,67.0,26.0,66.0,27.0,69.0,28.0,did not hit their potential,
+Sebastian Ubilla,S. Ubilla,214418,"['ST', 'RW']",Chile,Universidad de Chile,82,68,22,68.0,23.0,71.0,24.0,70.0,25.0,,,70.0,27.0,70.0,28.0,,,,,did not hit their potential,
+Sebastian Martinez,S. Martínez,214413,['CM'],Chile,Universidad de Chile,82,64,19,69.0,20.0,73.0,21.0,72.0,22.0,,,,,69.0,25.0,68.0,27.0,65.0,28.0,did not hit their potential,
+Eder Alvarez Balanta,É. Álvarez Balanta,213899,"['CB', 'LB', 'CDM']",Colombia,River Plate,82,72,20,75.0,21.0,75.0,22.0,75.0,23.0,76.0,24.0,76.0,25.0,75.0,26.0,76.0,27.0,75.0,28.0,did not hit their potential,
+Tiago Rafael Maia Silva,Tiago Silva,212474,"['CM', 'CAM', 'LM']",Portugal,Belenenses SAD,82,68,20,71.0,21.0,71.0,22.0,72.0,23.0,72.0,24.0,74.0,25.0,73.0,26.0,72.0,27.0,71.0,28.0,did not hit their potential,
+Aymeric Laporte,A. Laporte,212218,['CB'],France,Athletic Club de Bilbao,82,72,19,81.0,20.0,83.0,21.0,84.0,22.0,84.0,23.0,83.0,24.0,87.0,25.0,87.0,26.0,86.0,27.0,exceeded their potential,1.0
+Neal Maupay,N. Maupay,211784,"['ST', 'RW']",France,OGC Nice,82,63,16,64.0,17.0,70.0,18.0,69.0,19.0,71.0,20.0,70.0,21.0,75.0,22.0,77.0,23.0,77.0,24.0,still has time,
+Danilo Cataldi,D. Cataldi,211361,"['CM', 'CAM']",Italy,Crotone,82,67,18,67.0,19.0,73.0,20.0,75.0,21.0,75.0,22.0,75.0,23.0,75.0,24.0,73.0,25.0,73.0,26.0,did not hit their potential,
+Dario Del Fabro,D. Del Fabro,211067,['CB'],Italy,Cagliari,82,62,18,68.0,19.0,67.0,20.0,68.0,21.0,67.0,22.0,68.0,23.0,66.0,24.0,,,65.0,26.0,did not hit their potential,
+Joao Pedro Cavaco Cancelo,João Cancelo,210514,['RB'],Portugal,SL Benfica,82,68,19,70.0,20.0,73.0,21.0,79.0,22.0,79.0,23.0,81.0,24.0,84.0,25.0,83.0,26.0,86.0,27.0,exceeded their potential,5.0
+Lucas Silva Borges,Lucas Silva,209749,"['CDM', 'CM']",Brazil,Cruzeiro,82,68,20,,,76.0,22.0,74.0,23.0,,,,,74.0,26.0,,,,,did not hit their potential,
+Romario Ricardo Da Silva,Romarinho,209440,"['CAM', 'ST']",Brazil,Sport Club Corinthians Paulista,82,71,22,,,,,,,,,,,73.0,28.0,74.0,29.0,77.0,30.0,did not hit their potential,
+Tony Everton Ramos Da Silva,Tony,209328,"['RB', 'RWB']",Brazil,Criciúma,82,67,23,,,,,,,,,,,,,,,,,did not hit their potential,
+Saul Niguez Esclapez,Saúl,208421,"['CM', 'CAM', 'CF']",Spain,Rayo Vallecano,82,71,18,74.0,19.0,76.0,20.0,80.0,21.0,82.0,22.0,85.0,23.0,85.0,24.0,84.0,25.0,82.0,26.0,exceeded their potential,4.0
+Matthias Ginter,M. Ginter,207862,"['CB', 'CDM', 'CM', 'CF']",Germany,Sport-Club Freiburg,82,75,19,77.0,20.0,77.0,21.0,77.0,22.0,78.0,23.0,80.0,24.0,81.0,25.0,82.0,26.0,84.0,27.0,exceeded their potential,6.0
+Filipe Augusto Carvalho Souza,Filipe Augusto,207733,"['CM', 'CAM']",Brazil,Rio Ave FC,82,68,19,71.0,20.0,73.0,21.0,73.0,22.0,74.0,23.0,73.0,24.0,72.0,25.0,75.0,26.0,73.0,27.0,did not hit their potential,
+Bryan Carrasco,B. Carrasco,207641,"['RM', 'RB']",Chile,Audax Italiano,82,69,22,67.0,23.0,67.0,24.0,67.0,25.0,,,72.0,27.0,69.0,28.0,,,67.0,30.0,did not hit their potential,
+Mitchell Weiser,M. Weiser,206591,"['RM', 'LM', 'RB', 'LB']",Germany,FC Bayern München,82,66,19,66.0,20.0,71.0,21.0,76.0,22.0,78.0,23.0,78.0,24.0,77.0,25.0,76.0,26.0,73.0,27.0,did not hit their potential,
+Nicola Murru,N. Murru,205934,['LB'],Italy,Cagliari,82,67,18,71.0,19.0,71.0,20.0,71.0,21.0,70.0,22.0,72.0,23.0,73.0,24.0,73.0,25.0,72.0,26.0,did not hit their potential,
+Borys Tashchi,B. Tashchi,205892,['CAM'],Ukraine,Dinamo Moscow,82,62,19,,,,,65.0,22.0,66.0,23.0,70.0,24.0,69.0,25.0,66.0,26.0,66.0,27.0,did not hit their potential,
+Lucas Ocampos,L. Ocampos,205632,"['LW', 'RW']",Argentina,AS Monaco,82,73,18,75.0,19.0,77.0,20.0,75.0,21.0,76.0,22.0,77.0,23.0,77.0,24.0,82.0,25.0,83.0,26.0,lived to expectations,7.0
+Samuel Umtiti,S. Umtiti,205600,"['CB', 'LB']",France,Olympique Lyonnais,82,74,19,76.0,20.0,79.0,21.0,82.0,22.0,83.0,23.0,87.0,24.0,86.0,25.0,83.0,26.0,80.0,27.0,exceeded their potential,3.0
+Gary Mackay Steven,G. Mackay-Steven,204820,"['LM', 'LW', 'RM', 'CF']",Scotland,Dundee United,82,72,22,70.0,23.0,70.0,24.0,70.0,25.0,68.0,26.0,70.0,27.0,69.0,28.0,69.0,29.0,67.0,30.0,did not hit their potential,
+Santiago Arias,S. Arias,204259,['RB'],Colombia,PSV,82,71,21,72.0,22.0,76.0,23.0,77.0,24.0,77.0,25.0,78.0,26.0,79.0,27.0,81.0,28.0,79.0,29.0,lived to expectations,7.0
+Bruno Zuculini,B. Zuculini,203864,['CM'],Argentina,Racing Club,82,68,20,73.0,21.0,74.0,22.0,,,71.0,24.0,70.0,25.0,75.0,26.0,73.0,27.0,74.0,28.0,did not hit their potential,
+Hector Bellerin Moruno,Héctor Bellerín,203747,['RB'],Spain,Arsenal,82,56,18,61.0,19.0,74.0,20.0,79.0,21.0,81.0,22.0,80.0,23.0,80.0,24.0,80.0,25.0,78.0,26.0,lived to expectations,4.0
+Ayanda Patosi,A. Patosi,203632,['LW'],South Africa,Sporting Lokeren,82,70,20,68.0,21.0,72.0,22.0,73.0,23.0,,,,,,,,,,,did not hit their potential,
+Alessandro Florenzi,A. Florenzi,203551,"['CM', 'RM', 'LM']",Italy,Roma,82,74,22,76.0,23.0,77.0,24.0,82.0,25.0,82.0,26.0,82.0,27.0,81.0,28.0,81.0,29.0,81.0,30.0,lived to expectations,3.0
+Thorgan Hazard,T. Hazard,203486,"['LM', 'CAM']",Belgium,SV Zulte Waregem,82,74,20,76.0,21.0,78.0,22.0,79.0,23.0,80.0,24.0,81.0,25.0,82.0,26.0,83.0,27.0,82.0,28.0,lived to expectations,5.0
+Ogenyi Onazi,O. Onazi,202934,['CM'],Nigeria,Lazio,82,74,20,75.0,21.0,75.0,22.0,75.0,23.0,74.0,24.0,75.0,25.0,76.0,26.0,74.0,27.0,,,did not hit their potential,
+Memphis Depay,M. Depay,202556,"['LW', 'RW']",Netherlands,PSV,82,73,19,78.0,20.0,81.0,21.0,80.0,22.0,80.0,23.0,83.0,24.0,84.0,25.0,85.0,26.0,85.0,27.0,exceeded their potential,2.0
+Tom Carroll,T. Carroll,202491,['CM'],England,Tottenham Hotspur,82,69,21,69.0,22.0,71.0,23.0,72.0,24.0,73.0,25.0,74.0,26.0,71.0,27.0,,,65.0,29.0,did not hit their potential,
+Gerard Deulofeu Lazaro,Deulofeu,202477,"['RW', 'LW']",Spain,Everton,82,75,19,79.0,20.0,78.0,21.0,81.0,22.0,82.0,23.0,81.0,24.0,80.0,25.0,80.0,26.0,79.0,27.0,lived to expectations,3.0
+Jordan Veretout,J. Veretout,201519,"['CM', 'CDM']",France,FC Nantes,82,70,20,72.0,21.0,76.0,22.0,76.0,23.0,77.0,24.0,78.0,25.0,78.0,26.0,79.0,27.0,81.0,28.0,lived to expectations,8.0
+Frederik Sorensen,F. Sørensen,201342,"['CB', 'RB']",Denmark,Bologna,82,73,21,71.0,22.0,74.0,23.0,75.0,24.0,77.0,25.0,74.0,26.0,72.0,27.0,71.0,28.0,,,did not hit their potential,
+Gabriel Armando De Abreu,Gabriel,201305,"['CB', 'RB', 'LB']",Brazil,Villarreal CF,82,72,22,72.0,23.0,78.0,24.0,79.0,25.0,79.0,26.0,82.0,27.0,82.0,28.0,82.0,29.0,82.0,30.0,lived to expectations,5.0
+Sergey Bryzgalov,S. Bryzgalov,201165,"['CB', 'CDM']",Russia,Spartak Moskva,82,70,20,70.0,21.0,71.0,22.0,71.0,23.0,70.0,24.0,,,,,,,,,did not hit their potential,
+Ravel Morrison,R. Morrison,201155,"['CM', 'LM', 'RM']",England,West Ham United,82,68,20,74.0,21.0,76.0,22.0,77.0,23.0,74.0,24.0,,,76.0,26.0,,,72.0,28.0,did not hit their potential,
+Alvaro Borja Morata Martin,Morata,201153,['ST'],Spain,Real Madrid CF,82,76,20,77.0,21.0,81.0,22.0,82.0,23.0,84.0,24.0,83.0,25.0,83.0,26.0,82.0,27.0,83.0,28.0,exceeded their potential,2.0
+Bartlomiej Pawlowski,B. Pawłowski,201114,"['CF', 'LM']",Poland,Málaga CF,82,68,20,67.0,21.0,63.0,22.0,67.0,23.0,67.0,24.0,68.0,25.0,71.0,26.0,70.0,27.0,66.0,28.0,did not hit their potential,
+Dale Jennings,D. Jennings,200666,"['LW', 'RW', 'ST']",England,Barnsley,82,63,20,62.0,21.0,63.0,22.0,,,,,,,,,,,,,did not hit their potential,
+Nacer Chadli,N. Chadli,200529,"['LW', 'CAM']",Belgium,Tottenham Hotspur,82,78,23,77.0,24.0,79.0,25.0,78.0,26.0,78.0,27.0,78.0,28.0,75.0,29.0,78.0,30.0,77.0,31.0,did not hit their potential,
+Luis Pedro Cavanda,L. Cavanda,200434,"['RB', 'LB']",Angola,Lazio,82,72,22,72.0,23.0,75.0,24.0,74.0,25.0,72.0,26.0,71.0,27.0,70.0,28.0,,,,,did not hit their potential,
+Sebastian Rode,S. Rode,200215,"['CDM', 'CM', 'RM']",Germany,Eintracht Frankfurt,82,77,22,77.0,23.0,79.0,24.0,80.0,25.0,78.0,26.0,77.0,27.0,78.0,28.0,77.0,29.0,77.0,30.0,did not hit their potential,
+Nicolas Blandi,N. Blandi,200197,['ST'],Argentina,Boca Juniors,82,71,23,72.0,24.0,72.0,25.0,74.0,26.0,77.0,27.0,76.0,28.0,75.0,29.0,73.0,30.0,63.0,31.0,did not hit their potential,
+Carlos Henrique Casemiro,C. Casemiro,200145,"['CM', 'CDM']",Brazil,Real Madrid CF,82,77,21,76.0,22.0,77.0,23.0,82.0,24.0,85.0,25.0,88.0,26.0,87.0,27.0,89.0,28.0,89.0,29.0,exceeded their potential,3.0
+Aras Ozbiliz,A. Özbiliz,200106,['RM'],Armenia,Spartak Moskva,82,76,23,77.0,24.0,77.0,25.0,74.0,26.0,73.0,27.0,73.0,28.0,73.0,29.0,,,,,did not hit their potential,
+Anthony Lopes,A. Lopes,199482,['GK'],Portugal,Olympique Lyonnais,82,72,22,76.0,23.0,81.0,24.0,83.0,25.0,83.0,26.0,84.0,27.0,85.0,28.0,83.0,29.0,82.0,30.0,exceeded their potential,2.0
+Jordy Clasie,J. Clasie,199422,['CM'],Netherlands,Feyenoord,82,76,22,76.0,23.0,78.0,24.0,78.0,25.0,77.0,26.0,76.0,27.0,76.0,28.0,74.0,29.0,72.0,30.0,did not hit their potential,
+Grzegorz Krychowiak,G. Krychowiak,197242,['CDM'],Poland,Stade de Reims,82,76,23,79.0,24.0,82.0,25.0,84.0,26.0,81.0,27.0,78.0,28.0,78.0,29.0,80.0,30.0,80.0,31.0,exceeded their potential,2.0
+Emmanuel Mayuka,E. Mayuka,196819,"['ST', 'LW', 'RW']",Zambia,Southampton,82,71,22,71.0,23.0,70.0,24.0,,,,,,,,,,,,,did not hit their potential,
+Marco Davide Faraoni,M. Faraoni,195272,"['RM', 'RB', 'RWB']",Italy,Watford,82,72,21,69.0,22.0,69.0,23.0,71.0,24.0,70.0,25.0,70.0,26.0,71.0,27.0,74.0,28.0,77.0,29.0,did not hit their potential,
+Willian Jose Da Silva,Willian José,195093,"['ST', 'CF']",Brazil,Santos,82,71,21,,,70.0,23.0,78.0,24.0,82.0,25.0,83.0,26.0,82.0,27.0,80.0,28.0,77.0,29.0,lived to expectations,4.0
+Dejan Lovren,D. Lovren,195086,['CB'],Croatia,Southampton,82,78,23,79.0,24.0,79.0,25.0,82.0,26.0,81.0,27.0,81.0,28.0,80.0,29.0,,,,,lived to expectations,3.0
+Alper Potuk,A. Potuk,194079,"['CM', 'CAM', 'CDM']",Turkey,Turkey,82,76,22,76.0,23.0,76.0,24.0,77.0,25.0,77.0,26.0,76.0,27.0,75.0,28.0,72.0,29.0,70.0,30.0,did not hit their potential,

@@ -1,0 +1,301 @@
+Player name,Known as,player_id,position,nationality,team,Fifa 07 Potential rating,Fifa 7 overall_rating,Fifa 7 age,Fifa 8 overall_rating,Fifa 8 age,Fifa 9 overall_rating,Fifa 9 age,Fifa 10 overall_rating,Fifa 10 age,Fifa 11 overall_rating,Fifa 11 age,Fifa 12 overall_rating,Fifa 12 age,Fifa 13 overall_rating,Fifa 13 age,Fifa 14 overall_rating,Fifa 14 age,Fifa 15 overall_rating,Fifa 15 age,Fifa 16 overall_rating,Fifa 16 age,Fifa 17 overall_rating,Fifa 17 age,Fifa 18 overall_rating,Fifa 18 age,Fifa 19 overall_rating,Fifa 19 age,Fifa 20 overall_rating,Fifa 20 age,Fifa 21 overall_rating,Fifa 21 age,Fifa 22 overall_rating,Fifa 22 age
+Lionel Messi,L. Messi,158023,['RF'],Argentina,FC Barcelona,94,,,,,,,90,22,90,23,94,24,94,25,94,26,93,27,94,28,93,29,93,30,94,31,94,32,93,33,93,34
+Robinho,Robinho,136144,['ST'],Brazil,Real Madrid CF,94,,,,,,,85,25,81,26,84,27,83,28,75,29,,,,,,,,,77,34,,,,,,
+Theo Walcott,T. Walcott,164859,['ST'],England,Arsenal,93,,,,,,,81,20,81,21,82,22,81,23,81,24,81,25,81,26,81,27,80,28,79,29,77,30,76,31,76,32
+Salomon Kalou,S. Kalou,158232,['CF'],Côte d'Ivoire,Chelsea,93,,,,,,,80,23,80,24,81,25,78,26,78,27,78,28,77,29,81,30,80,31,79,32,79,33,,,,
+Sergio Aguero,S. Agüero,153079,['CF'],Argentina,Atlético de Madrid,93,,,,,,,84,21,84,22,86,23,87,24,88,25,86,26,87,27,89,28,89,29,89,30,89,31,89,32,87,33
+Oleg Husyev,O. Husyev,140957,['RM'],Ukraine,Ukraine,93,,,,,,,78,26,,,,,,,,,,,,,,,,,,,,,,,,
+Wayne Rooney,W. Rooney,54050,['ST'],England,Manchester United,,,,,,,,87,23,88,24,90,25,89,26,87,27,86,28,86,29,84,30,81,31,80,32,80,33,77,34,,
+Franck Ribery,F. Ribéry,156616,['CAM'],France,Olympique de Marseille,92,,,,,,,88,26,86,27,88,28,90,29,90,30,88,31,87,32,86,33,86,34,85,35,,,81,37,79,38
+Sergio Ramos,Sergio Ramos,155862,['CB'],Spain,Real Madrid CF,92,,,,,,,85,23,85,24,85,25,87,26,86,27,87,28,87,29,89,30,90,31,91,32,89,33,89,34,88,35
+Yoann Gourcuff,Y. Gourcuff,153296,['CM'],France,AC Milan,92,,,,,,,85,22,83,23,81,24,79,25,79,26,77,27,,,78,29,79,30,75,31,,,,,,
+Lukas Podolski,L. Podolski,150516,['CF'],Germany,FC Bayern München,92,,,,,,,81,24,81,25,83,26,83,27,80,28,77,29,77,30,80,31,80,32,78,33,75,34,75,35,73,36
+Klaas Jan Huntelaar,K. Huntelaar,148803,['ST'],Netherlands,Ajax,92,,,,,,,82,25,80,26,82,27,85,28,84,29,84,30,82,31,81,32,77,33,77,34,77,35,74,36,,
+Daniel Alves,Daniel Alves,146530,['RB'],Brazil,Sevilla FC,92,,,,,,,86,26,84,27,86,28,84,29,84,30,83,31,84,32,85,33,84,34,82,35,,,,,77,38
+Vincent Kompany,V. Kompany,139720,['CB'],Belgium,Hamburger SV,92,,,,,,,79,23,80,24,84,25,85,26,86,27,86,28,85,29,86,30,85,31,85,32,83,33,,,,
+Nilmar,Nilmar,135567,['RF'],Brazil,Sport Club Corinthians Paulista,92,,,,,,,79,24,80,25,83,26,,,,,,,,,,,,,,,,,,,,
+Jeremy Toulalan,J. Toulalan,112253,['CDM'],France,Olympique Lyonnais,92,,,,,,,83,25,83,26,81,27,83,28,82,29,83,30,82,31,83,32,79,33,,,,,,,,
+Fernando Torres,Fernando Torres,49369,['ST'],Spain,Atlético de Madrid,92,,,,,,,88,25,86,26,86,27,85,28,82,29,81,30,79,31,81,32,81,33,80,34,,,,,,
+Rafael Van Der Vaart,R. van der Vaart,45574,['CAM'],Netherlands,Hamburger SV,92,,,,,,,83,26,84,27,87,28,85,29,83,30,81,31,78,32,75,33,71,34,67,35,,,,,,
+Cristiano Ronaldo,C. Ronaldo,20801,['RW'],Portugal,Manchester United,92,,,,,,,89,24,89,25,92,26,92,27,92,28,92,29,93,30,94,31,94,32,94,33,93,34,92,35,91,36
+Daniel Sturridge,D. Sturridge,171833,['ST'],England,Manchester City,91,,,,,,,75,19,76,20,80,21,78,22,80,23,83,24,83,25,84,26,82,27,80,28,,,,,75,31
+Nuri Sahin,N. Sahin,170797,['CM'],Turkey,Borussia Dortmund,91,,,,,,,77,20,79,21,85,22,82,23,82,24,81,25,81,26,80,27,79,28,79,29,78,30,,,74,32
+Anderson,Anderson,167963,['CAM'],Brazil,FC Porto,91,,,,,,,80,21,78,22,77,23,77,24,77,25,73,26,73,27,,,,,,,,,,,,
+Johan Djourou,J. Djourou,162893,['CDM'],Switzerland,Arsenal,91,,,,,,,78,22,78,23,77,24,75,25,75,26,74,27,76,28,77,29,73,30,72,31,,,69,33,,
+Valon Behrami,V. Behrami,161805,['RW'],Switzerland,Lazio,91,,,,,,,77,24,76,25,77,26,79,27,78,28,79,29,76,30,77,31,77,32,76,33,75,34,75,35,73,36
+Hatem Ben Arfa,H. Ben Arfa,161648,['CF'],France,Olympique Lyonnais,91,,,,,,,78,22,78,23,79,24,81,25,79,26,78,27,79,28,84,29,81,30,,,,,75,33,75,34
+Ryan Babel,R. Babel,157301,['ST'],Netherlands,Ajax,91,,,,,,,80,22,77,23,77,24,76,25,,,75,27,,,,,75,30,79,31,78,32,77,33,76,34
+Rio Antonio Mavuba,R. Mavuba,150656,['CDM'],France,FC Girondins de Bordeaux,91,,,,,,,76,25,77,26,81,27,82,28,81,29,81,30,79,31,77,32,75,33,73,34,,,,,,
+Valeri Bojinov,V. Bojinov,149306,['ST'],Bulgaria,Juventus,91,,,,,,,76,23,78,24,76,25,73,26,70,27,,,,,,,69,31,,,69,33,,,,
+Javier Mascherano,J. Mascherano,142754,['CDM'],Argentina,Sport Club Corinthians Paulista,91,,,,,,,85,25,84,26,86,27,86,28,84,29,83,30,83,31,85,32,83,33,80,34,80,35,79,36,,
+F Guillermo Ochoa,F. Ochoa,140233,['GK'],Mexico,Mexico,91,,,,,,,80,23,79,24,76,25,77,26,78,27,80,28,80,29,80,30,79,31,77,32,78,33,79,34,80,35
+Mirko Vucinic,M. Vucinic,106850,['ST'],Serbia,Lecce,91,,,,,,,83,25,82,26,81,27,82,28,83,29,,,,,,,,,,,,,,,,
+Philippe Senderos,P. Senderos,49966,['CB'],Switzerland,Arsenal,91,,,,,,,76,24,74,25,72,26,73,27,72,28,72,29,72,30,,,68,32,67,33,,,,,,
+Michael Essien,M. Essien,45674,['CM'],Ghana,Chelsea,91,,,,,,,86,26,85,27,84,28,82,29,81,30,75,31,73,32,74,33,,,,,,,,,,
+Alberto Gilardino,A. Gilardino,5879,['ST'],Italy,AC Milan,91,,,,,,,84,26,81,27,81,28,78,29,77,30,,,,,75,33,72,34,,,,,,,,
+Michael Jones,M. Jones,177692,['RW'],England,Tranmere Rovers,90,,,,,,,59,21,60,22,62,23,64,24,64,25,64,26,65,27,67,28,63,29,63,30,63,31,63,32,62,33
+Giovanni Dos Santos,G. dos Santos,170369,['CAM'],Mexico,FC Barcelona,90,,,,,,,76,20,78,21,78,22,74,23,79,24,81,25,79,26,79,27,79,28,77,29,76,30,73,31,,
+Micah Richards,M. Richards,169721,['RB'],England,Manchester City,90,,,,,,,76,21,79,22,80,23,80,24,79,25,77,26,79,27,77,28,74,29,69,30,,,,,,
+Gionata Mingozzi,G. Mingozzi,168373,['CM'],Italy,Lecce,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Efrain Juarez Valdez,E. Juárez Valdez,167519,['CB'],Mexico,FC Barcelona,90,,,,,,,71,21,79,22,71,23,67,24,65,25,66,26,68,27,70,28,71,29,68,30,68,31,,,,
+Cameron Jerome,C. Jerome,165191,['ST'],England,Birmingham City,90,,,,,,,75,22,78,23,73,24,73,25,73,26,72,27,75,28,74,29,72,30,71,31,70,32,,,67,34
+Karim Benzema,K. Benzema,165153,['ST'],France,Olympique Lyonnais,90,,,,,,,85,21,83,22,84,23,87,24,85,25,85,26,86,27,87,28,86,29,84,30,87,31,89,32,89,33
+John Obi Mikel,J. Mikel,164477,['CM'],Nigeria,Chelsea,90,,,,,,,81,22,82,23,81,24,80,25,79,26,78,27,77,28,78,29,,,76,31,73,32,72,33,,
+Kamil Oziemczuk,K. Oziemczuk,163851,['CF'],Poland,AJ Auxerre,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+James Vaughan,J. Vaughan,163396,['ST'],England,Everton,90,,,,,,,75,20,73,21,71,22,69,23,72,24,70,25,69,26,70,27,72,28,70,29,67,30,65,31,,
+Francesc Fabregas,F. Fabregas,162895,['CM'],Spain,Arsenal,90,,,,,,,87,22,86,23,88,24,87,25,86,26,84,27,87,28,86,29,86,30,84,31,81,32,75,33,76,34
+Giuseppe Rossi,G. Rossi,162409,['ST'],Italy,Manchester United,90,,,,,,,83,22,82,23,85,24,82,25,81,26,82,27,80,28,79,29,,,,,,,73,33,,
+Fred,Fred,160774,['ST'],Brazil,Olympique Lyonnais,90,,,,,,,79,25,79,26,79,27,80,28,82,29,,,77,31,,,,,,,,,,,,
+Scott Carson,S. Carson,157804,['GK'],England,Charlton Athletic,90,,,,,,,74,23,74,24,,,,,75,27,73,28,72,29,72,30,74,31,73,32,72,33,70,34,67,35
+Rafael Sobis,Rafael Sobis,152855,['LF'],Brazil,Internacional,90,,,,,,,,,77,25,75,26,76,27,76,28,,,77,30,,,,,,,,,,,,
+Aaron Lennon,A. Lennon,152747,['RW'],England,Tottenham Hotspur,90,,,,,,,79,22,82,23,82,24,80,25,80,26,79,27,77,28,78,29,77,30,77,31,74,32,,,73,34
+Igor Akinfeev,I. Akinfeev,148119,['GK'],Russia,Russia,90,,,,,,,85,23,84,24,84,25,84,26,84,27,83,28,81,29,80,30,79,31,80,32,80,33,80,34,80,35
+Jesus Navas,Jesús Navas,146536,['RW'],Spain,Sevilla FC,90,,,,,,,83,23,84,24,84,25,85,26,85,27,83,28,81,29,80,30,78,31,78,32,82,33,84,34,84,35
+Carlos Tevez,C. Tevez,143001,['LF'],Argentina,Sport Club Corinthians Paulista,90,,,,,,,85,25,86,26,88,27,86,28,86,29,85,30,86,31,83,32,,,78,34,78,35,78,36,,
+Dmitriy Sytchev,D. Sytchev,139714,['ST'],Russia,Russia,90,,,,,,,75,25,76,26,74,27,72,28,71,29,,,,,,,,,,,,,,,,
+Emerse Fae,E. Faé,138711,['CDM'],Côte d'Ivoire,FC Nantes,90,,,,,,,74,25,73,26,73,27,,,,,,,,,,,,,,,,,,,,
+Diego,Diego,136138,['CAM'],Brazil,SV Werder Bremen,90,,,,,,,87,24,82,25,83,26,83,27,84,28,82,29,79,30,,,,,,,,,,,,
+Damien Perquis,D. Perquis,135218,['CB'],France,AS Saint-Étienne,90,,,,,,,70,25,71,26,75,27,75,28,74,29,75,30,73,31,73,32,64,33,64,34,,,,,,
+Marouane Chamakh,M. Chamakh,134906,['ST'],Morocco,FC Girondins de Bordeaux,90,,,,,,,81,25,82,26,81,27,77,28,75,29,75,30,74,31,71,32,,,,,,,,,,
+Piotr Trochowski,P. Trochowski,121945,['CAM'],Germany,Hamburger SV,90,,,,,,,82,25,79,26,79,27,75,28,73,29,74,30,75,31,,,,,,,,,,,,
+Philipp Lahm,P. Lahm,121939,['LWB'],Germany,FC Bayern München,90,,,,,,,86,25,86,26,87,27,87,28,87,29,87,30,87,31,88,32,,,,,,,,,,
+Alexandr Kerzhakov,A. Kerzhakov,109416,['ST'],Russia,Russia,90,,,,,,,80,26,78,27,82,28,81,29,77,30,76,31,76,32,75,33,,,,,,,,,,
+Victor Hugo Mareco,V. Mareco,53783,['CB'],Paraguay,Brescia,90,,,,,,,67,25,67,26,64,27,,,,,,,,,,,,,,,,,,,,
+Tranquillo Barnetta,T. Barnetta,52752,['LW'],Switzerland,Bayer 04 Leverkusen,90,,,,,,,79,24,79,25,79,26,79,27,76,28,77,29,76,30,77,31,77,32,72,33,,,,,,
+Thomas Kahlenberg,T. Kahlenberg,49170,['CAM'],Denmark,AJ Auxerre,90,,,,,,,79,26,76,27,72,28,73,29,73,30,72,31,74,32,69,33,,,,,,,,,,
+Kim Kallstrom,K. Källström,31831,['CAM'],Sweden,Olympique Lyonnais,90,,,,,,,80,26,80,27,80,28,77,29,74,30,77,31,78,32,75,33,77,34,,,,,,,,
+Quaresma,Quaresma,20775,['RW'],Portugal,FC Porto,90,,,,,,,80,25,80,26,82,27,83,28,,,80,30,81,31,83,32,83,33,84,34,81,35,,,77,37
+Arjen Robben,A. Robben,9014,['LW'],Netherlands,Chelsea,90,,,,,,,85,25,87,26,90,27,88,28,88,29,90,30,90,31,87,32,88,33,85,34,,,80,36,,
+Antonio Cassano,A. Cassano,7631,['ST'],Italy,Real Madrid CF,90,,,,,,,86,26,84,27,83,28,85,29,81,30,80,31,81,32,78,33,,,,,,,,,,
+Iniesta,Iniesta,41,['CM'],Spain,FC Barcelona,90,,,,,,,87,25,87,26,91,27,90,28,89,29,89,30,88,31,88,32,87,33,87,34,83,35,81,36,80,37
+Pedro Oldoni,Pedro Oldoni,176762,['ST'],Brazil,Club Athletico Paranaense,89,,,,,,,71,23,70,24,,,,,67,27,,,,,,,,,,,,,,,,
+Gary Bocaly,G. Bocaly,176564,['RWB'],France,Olympique de Marseille,89,,,,,,,68,21,73,22,74,23,74,24,73,25,72,26,,,,,,,,,,,,,,
+Claudio,Cláudio,176295,['ST'],Brazil,Palmeiras,89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nathan Dyer,N. Dyer,173436,['LW'],England,Southampton,89,,,,,,,68,21,70,22,73,23,75,24,75,25,74,26,76,27,77,28,75,29,74,30,69,31,69,32,,
+Jose Andres Guardado,J. Guardado,171897,['LW'],Mexico,Mexico,89,,,,,,,81,22,81,23,77,24,82,25,81,26,77,27,80,28,82,29,80,30,82,31,81,32,78,33,78,34
+Blaise Matuidi,B. Matuidi,170890,['CDM'],France,ESTAC Troyes,89,,,,,,,77,22,75,23,78,24,77,25,81,26,83,27,84,28,86,29,85,30,85,31,85,32,83,33,79,34
+Bogdan Shust,B. Shust,169318,['GK'],Ukraine,Ukraine,89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hedwiges Maduro,H. Maduro,168584,['CM'],Netherlands,Ajax,89,,,,,,,77,24,76,25,75,26,76,27,74,28,72,29,74,30,73,31,,,,,,,,,,
+Silva,Silva,168542,['LM'],Spain,Valencia CF,89,,,,,,,86,23,85,24,87,25,88,26,88,27,87,28,88,29,87,30,87,31,89,32,88,33,86,34,85,35
+Gonzalo Castro,G. Castro,167431,['RB'],Spain,Bayer 04 Leverkusen,89,,,,,,,78,22,78,23,78,24,78,25,80,26,80,27,81,28,82,29,82,30,78,31,75,32,73,33,74,34
+Giovanni Torre,G. Torre,166917,['ST'],Italy,Portsmouth,89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Evandro,Evandro,166080,['CM'],Brazil,Club Athletico Paranaense,89,,,,,,,70,22,69,23,,,,,72,26,74,27,76,28,76,29,73,30,71,31,,,,,,
+Samir Nasri,S. Nasri,165239,['CAM'],France,Olympique de Marseille,89,,,,,,,83,22,84,23,86,24,85,25,84,26,84,27,83,28,82,29,82,30,,,78,32,,,,
+Eugen Polanski,E. Polanski,165174,['CM'],Germany,Borussia Mönchengladbach,89,,,,,,,73,23,71,24,74,25,75,26,74,27,75,28,78,29,78,30,76,31,,,,,,,,
+Taye Ismaila Taiwo,T. Taiwo,164954,['LWB'],Nigeria,Olympique de Marseille,89,,,,,,,78,24,78,25,79,26,,,,,73,29,,,73,31,71,32,,,,,,,,
+Andrea Raggi,A. Raggi,163407,['CB'],Italy,Empoli,89,,,,,,,72,25,70,26,67,27,74,28,72,29,73,30,79,31,78,32,76,33,76,34,,,,,,
+Arturo Lupoli,A. Lupoli,163169,['ST'],Italy,Derby County,89,,,,,,,69,22,66,23,67,24,66,25,65,26,65,27,65,28,67,29,,,,,,,,,,
+Philip Ifil,P. Ifil,163045,['RB'],England,Tottenham Hotspur,89,,,,,,,63,22,58,23,,,,,,,,,,,,,,,,,,,,,,
+Bafetimbi Gomis,B. Gomis,159145,['ST'],France,AS Saint-Étienne,89,,,,,,,78,23,77,24,81,25,81,26,81,27,78,28,77,29,78,30,79,31,81,32,81,33,80,34,79,35
+Julien Faubert,J. Faubert,156726,['RM'],France,FC Girondins de Bordeaux,89,,,,,,,74,25,71,26,67,27,,,67,29,68,30,71,31,,,,,,,,,,,,
+Romaric,Romaric,156585,['CAM'],Côte d'Ivoire,Le Mans FC,89,,,,,,,79,26,75,27,74,28,76,29,73,30,74,31,72,32,,,,,,,,,,,,
+Will Hoskins,W. Hoskins,156301,['ST'],England,Rotherham United,89,,,,,,,57,23,61,24,64,25,65,26,66,27,64,28,64,29,,,,,,,,,,,,
+Leon Clarke,L. Clarke,155533,['ST'],England,Wolverhampton Wanderers,89,,,,,,,65,24,67,25,63,26,64,27,66,28,66,29,66,30,68,31,65,32,72,33,70,34,,,62,36
+Renato Civelli,R. Civelli,152993,['CB'],Argentina,Olympique de Marseille,89,,,,,,,,,72,26,71,27,74,28,,,74,30,76,31,78,32,76,33,76,34,77,35,72,36,,
+Dean Marney,D. Marney,152991,['CDM'],England,Hull City,89,,,,,,,72,25,70,26,65,27,65,28,66,29,68,30,70,31,71,32,72,33,70,34,66,35,,,,
+Pique,Piqué,152729,['CB'],Spain,Real Zaragoza,89,,,,,,,82,22,85,23,88,24,86,25,86,26,84,27,85,28,86,29,87,30,87,31,88,32,86,33,84,34
+Daniel Agger,D. Agger,152039,['CB'],Denmark,Liverpool,89,,,,,,,81,24,82,25,83,26,83,27,82,28,81,29,80,30,,,,,,,,,,,,
+Juanfran,Juanfran,146760,['RW'],Spain,Real Madrid CF,89,,,,,,,75,24,78,25,79,26,78,27,79,28,79,29,81,30,83,31,83,32,80,33,,,,,,
+Wesley Sneijder,W. Sneijder,139869,['LM'],Netherlands,Ajax,89,,,,,,,83,25,86,26,88,27,87,28,84,29,84,30,84,31,83,32,83,33,,,,,,,,
+Babacar Gueye,B. Gueye,138565,['ST'],Senegal,FC Metz,89,,,,,,,69,23,67,24,63,25,,,,,,,,,,,,,,,,,,,,
+Obafemi Martins,O. Martins,137494,['ST'],Nigeria,Newcastle United,89,,,,,,,81,24,80,25,77,26,75,27,77,28,76,29,79,30,,,,,,,,,75,35,,
+Matteo Paro,M. Paro,137429,['LM'],Italy,Juventus,89,,,,,,,73,26,64,27,63,28,,,,,,,65,32,,,,,,,,,,,,
+Bastian Schweinsteiger,B. Schweinsteiger,121944,['LM'],Germany,FC Bayern München,89,,,,,,,81,24,85,25,87,26,86,27,88,28,88,29,86,30,83,31,81,32,80,33,76,34,,,,
+Jean Makoun,J. Makoun,120304,['CDM'],Cameroon,LOSC Lille,89,,,,,,,79,26,80,27,78,28,75,29,74,30,73,31,72,32,73,33,,,,,,,,,,
+Charles Itandje,C. Itandje,116914,['GK'],France,Racing Club de Lens,89,,,,,,,,,68,27,67,28,,,69,30,69,31,70,32,74,33,,,,,,,,,,
+Carlos Idriss Kameni,C. Kameni,111661,['GK'],Cameroon,RCD Espanyol de Barcelona,89,,,,,,,81,25,82,26,82,27,78,28,75,29,73,30,75,31,80,32,80,33,78,34,73,35,,,,
+Jose Antonio Reyes,J. Reyes,111093,['ST'],Spain,Arsenal,89,,,,,,,82,25,82,26,85,27,81,28,77,29,77,30,78,31,78,32,,,71,34,,,,,,
+Riesgo,Riesgo,110974,['GK'],Spain,Real Sociedad,89,,,,,,,74,25,73,26,73,27,72,28,71,29,71,30,69,31,74,32,76,33,73,34,,,71,36,71,37
+Alberto Aquilani,A. Aquilani,103935,['CM'],Italy,Roma,89,,,,,,,82,24,78,25,81,26,80,27,80,28,79,29,79,30,78,31,75,32,,,,,,,,
+Tom Huddlestone,T. Huddlestone,54033,['CDM'],England,Tottenham Hotspur,89,,,,,,,77,22,80,23,80,24,77,25,76,26,75,27,74,28,75,29,75,30,74,31,72,32,,,66,34
+Per Mertesacker,P. Mertesacker,53612,['CB'],Germany,SV Werder Bremen,89,,,,,,,84,24,83,25,82,26,81,27,80,28,83,29,83,30,83,31,81,32,,,,,,,,
+Juan Pablo Francia,J. Francia,49439,['CM'],Argentina,FC Girondins de Bordeaux,89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jermaine Jenas,J. Jenas,49076,['CM'],England,Tottenham Hotspur,89,,,,,,,78,26,76,27,75,28,74,29,72,30,,,,,,,,,,,,,,,,
+Morten Rasmussen,M. Rasmussen,45104,['ST'],Denmark,Brøndby IF,89,,,,,,,70,24,72,25,68,26,68,27,65,28,68,29,70,30,71,31,69,32,68,33,,,,,,
+Jose Reina,J. Reina,24630,['GK'],Spain,Liverpool,89,,,,,,,84,26,85,27,84,28,83,29,83,30,81,31,80,32,84,33,83,34,83,35,82,36,79,37,78,38
+Terry Dixon,T. Dixon,177423,['ST'],Republic of Ireland,Tottenham Hotspur,88,,,,,,,63,19,,,55,21,,,,,,,,,,,,,,,,,,,,
+Ilsinho,Ilsinho,177138,['RWB'],Brazil,São Paulo,88,,,,,,,,,73,24,75,25,,,73,27,74,28,,,72,30,67,31,67,32,68,33,68,34,67,35
+Rafael Moura,Rafael Moura,176741,['ST'],Brazil,Sport Club Corinthians Paulista,88,,,,,,,,,68,27,76,28,73,29,71,30,,,71,32,,,,,,,,,,,,
+Ben Parker,B. Parker,171987,['LB'],England,Bradford City,88,,,,,,,63,21,64,22,64,23,,,,,,,,,,,,,,,,,,,,
+Kerlon,Kerlon,170911,['CAM'],Brazil,Cruzeiro,88,,,,,,,69,21,,,,,,,,,,,,,,,,,,,,,,,,
+Nizamettin Caliskan,N. Calışkan,170796,['CAM'],Turkey,Manisaspor,88,,,,,,,63,22,60,23,,,,,,,61,27,,,,,,,,,,,,,,
+Carlos Alberto Vela,C. Vela,169416,['ST'],Mexico,UD Salamanca,88,,,,,,,76,20,77,21,74,22,77,23,82,24,82,25,82,26,81,27,82,28,81,29,83,30,83,31,83,32
+Ismael Bangoura,I. Bangoura,168984,['CF'],Guinea,Le Mans FC,88,,,,,,,74,24,74,25,,,71,27,71,28,66,29,66,30,68,31,71,32,71,33,,,,,,
+Rafinha,Rafinha,168607,['RWB'],Brazil,FC Schalke 04,88,,,,,,,81,23,79,24,79,25,76,26,76,27,77,28,78,29,78,30,78,31,77,32,,,78,34,,
+Vladimir Stojkovic,V. Stojkovic,167993,['GK'],Serbia,FC Nantes,88,,,,,,,,,,,,,,,,,,,,,77,32,,,,,,,,,70,37
+Diego,Diego,165821,['ST'],Brazil,Cruzeiro,88,,,,,,,,,,,67,27,,,,,,,,,,,,,,,,,,,,
+Thiago,Thiago,165235,['ST'],Brazil,São Paulo,88,,,,,,,73,23,75,24,75,25,75,26,75,27,,,75,29,,,,,,,,,,,,
+Raffaele Palladino,R. Palladino,159284,['ST'],Italy,Juventus,88,,,,,,,78,25,77,26,74,27,73,28,73,29,72,30,,,73,32,72,33,,,,,,,,
+Steven Taylor,S. Taylor,159034,['CB'],England,Newcastle United,88,,,,,,,74,23,75,24,76,25,76,26,76,27,75,28,76,29,74,30,69,31,68,32,69,33,70,34,70,35
+Quentin Westberg,Q. Westberg,157888,['GK'],United States,ESTAC Troyes,88,,,,,,,,,,,66,25,,,,,,,63,29,65,30,64,31,64,32,68,33,69,34,66,35
+Ronald Zubar,R. Zubar,150472,['CB'],France,Olympique de Marseille,88,,,,,,,73,23,73,24,69,25,66,26,67,27,68,28,67,29,68,30,,,,,,,,,,
+Michel Bastos,Michel Bastos,139843,['LWB'],Brazil,LOSC Lille,88,,,,,,,82,25,82,26,83,27,82,28,,,,,78,31,,,,,,,,,,,,
+Giampaolo Pazzini,G. Pazzini,137361,['ST'],Italy,Fiorentina,88,,,,,,,82,24,82,25,83,26,82,27,80,28,77,29,77,30,76,31,76,32,74,33,72,34,69,35,,
+Anouar Diba,A. Diba,134946,['RW'],Netherlands,NAC Breda,88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alexander Meier,A. Meier,121170,['CAM'],Germany,Eintracht Frankfurt,88,,,,,,,73,26,75,27,73,28,74,29,76,30,76,31,79,32,79,33,77,34,,,70,36,,,,
+Michael Dawson,M. Dawson,120312,['CB'],England,Tottenham Hotspur,88,,,,,,,75,25,80,26,80,27,80,28,79,29,79,30,77,31,77,32,75,33,72,34,70,35,69,36,,
+Ian Henderson,I. Henderson,118646,['CF'],England,Norwich City,88,,,,,,,60,24,62,25,64,26,63,27,61,28,65,29,65,30,66,31,67,32,66,33,67,34,66,35,64,36
+Nigel De Jong,N. de Jong,53578,['CDM'],Netherlands,Hamburger SV,88,,,,,,,79,24,80,25,82,26,81,27,79,28,81,29,81,30,78,31,74,32,,,,,,,,
+Matthias Lehmann,M. Lehmann,52498,['CDM'],Germany,Alemannia Aachen,88,,,,,,,67,26,73,27,73,28,72,29,69,30,72,31,75,32,76,33,76,34,72,35,,,,,,
+Jermain Defoe,J. Defoe,50542,['ST'],England,Tottenham Hotspur,88,,,,,,,81,26,82,27,81,28,81,29,81,30,80,31,79,32,80,33,80,34,78,35,76,36,74,37,68,38
+Kevin Anin,K. Anin,178367,['CDM'],France,Le Havre AC,87,,,,,,,67,22,66,23,75,24,75,25,74,26,,,,,,,,,,,,,,,,
+Matej Markovic,M. Markovic,177583,['ST'],Austria,SV Ried,87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mathieu Valbuena,M. Valbuena,177326,['CAM'],France,Olympique de Marseille,87,,,,,,,76,24,78,25,81,26,80,27,82,28,81,29,81,30,79,31,81,32,81,33,80,34,79,35,77,36
+Renatinho,Renatinho,176771,['CAM'],Brazil,Santos,87,,,,,,,,,68,23,,,,,,,,,,,,,,,,,,,,,,
+Sebastian Tyrala,S. Tyrala,170798,['CAM'],Germany,Borussia Dortmund,87,,,,,,,63,21,65,22,67,23,64,24,64,25,,,,,,,,,,,,,,,,
+Enza,Enza,169366,['LF'],Central African Republic,ESTAC Troyes,87,,,,,,,,,62,27,63,28,66,29,63,30,65,31,,,66,33,68,34,,,,,,,,
+Freddy Guarin,F. Guarín,169051,['CM'],Colombia,AS Saint-Étienne,87,,,,,,,74,23,76,24,80,25,81,26,81,27,79,28,80,29,,,,,76,32,,,,,,
+Ron Vlaar,R. Vlaar,168585,['CB'],Netherlands,Feyenoord,87,,,,,,,72,24,76,25,74,26,76,27,77,28,79,29,,,78,31,76,32,74,33,74,34,73,35,,
+Edixon Perea,E. Perea,168564,['ST'],Colombia,FC Girondins de Bordeaux,87,,,,,,,74,25,68,26,64,27,,,,,,,,,,,,,,,,,,,,
+Gonzalo Higuain,G. Higuaín,167664,['ST'],France,River Plate,87,,,,,,,82,21,85,22,85,23,85,24,84,25,84,26,84,27,88,28,90,29,88,30,85,31,83,32,81,33
+Fernando Ruben Gago,F. Gago,165517,['CDM'],Argentina,Boca Juniors,87,,,,,,,78,23,78,24,78,25,79,26,77,27,76,28,76,29,77,30,78,31,78,32,71,33,73,34,,
+David Gigliotti,D. Gigliotti,165233,['ST'],France,ESTAC Troyes,87,,,,,,,69,24,66,25,64,26,64,27,,,,,,,,,,,,,,,,,,
+Sidi Yaya Keita,S. Keita,163661,['CDM'],Mali,Racing Club de Lens,87,,,,,,,64,24,70,25,,,61,27,,,,,,,,,,,,,,,,,,
+Bakary Sagna,B. Sagna,163419,['RB'],France,AJ Auxerre,87,,,,,,,83,26,82,27,83,28,83,29,80,30,80,31,79,32,82,33,,,,,72,36,,,,
+Francois Clerc,F. Clerc,161700,['RB'],France,Olympique Lyonnais,87,,,,,,,78,26,,,74,28,74,29,75,30,75,31,73,32,72,33,70,34,,,,,,,,
+Mathieu Debuchy,M. Debuchy,158626,['CM'],France,LOSC Lille,87,,,,,,,74,23,74,24,77,25,79,26,78,27,80,28,80,29,80,30,78,31,78,32,79,33,78,34,73,35
+Manuel Fernandes,Manuel Fernandes,157960,['CM'],Portugal,Portugal,87,,,,,,,79,23,76,24,,,,,,,79,28,77,29,80,30,80,31,81,32,,,,,74,35
+Neri Raul Cardozo,N. Cardozo,157217,['CM'],Argentina,Boca Juniors,87,,,,,,,72,22,74,23,72,24,72,25,72,26,69,27,69,28,68,29,70,30,76,31,73,32,,,,
+Lukas Sinkiewicz,L. Sinkiewicz,156838,['CB'],Germany,1. FC Köln,87,,,,,,,75,23,70,24,68,25,71,26,69,27,,,,,,,,,,,,,,,,
+Youri Zhirkov,Y. Zhirkov,154950,['LM'],Russia,Russia,87,,,,,,,83,25,81,26,81,27,81,28,79,29,78,30,78,31,77,32,76,33,76,34,76,35,77,36,76,37
+Gavilan,Gavilán,147007,['LM'],Spain,Valencia CF,87,,,,,,,77,24,77,25,76,26,75,27,73,28,72,29,,,67,31,,,63,33,,,,,,
+Freddy Adu,F. Adu,142241,['CAM'],United States,D.C. United,87,,,,,,,71,20,,,69,22,70,23,69,24,,,,,,,,,,,,,,,,
+James Mceveley,J. McEveley,138679,['LB'],England,Blackburn Rovers,87,,,,,,,64,24,66,25,65,26,63,27,61,28,61,29,64,30,66,31,,,,,,,,,,
+Goran Pandev,G. Pandev,137506,['CF'],North Macedonia,Lazio,87,,,,,,,82,25,81,26,78,27,81,28,79,29,78,30,75,31,74,32,74,33,75,34,73,35,72,36,74,37
+Leandro Bonfim,Leandro Bonfim,137252,['CAM'],Brazil,Cruzeiro,87,,,,,,,,,69,26,,,,,68,29,,,,,,,,,,,,,,,,
+Dagoberto,Dagoberto,135499,['RF'],Brazil,Club Athletico Paranaense,87,,,,,,,76,26,75,27,77,28,76,29,77,30,,,,,,,,,,,,,,,,
+Carlos Alberto,Carlos Alberto,135291,['CAM'],Brazil,Sport Club Corinthians Paulista,87,,,,,,,,,77,25,74,26,76,27,,,,,73,30,,,,,,,,,,,,
+Lorik Cana,L. Cana,134956,['CDM'],Albania,Olympique de Marseille,87,,,,,,,80,25,78,26,78,27,76,28,78,29,77,30,78,31,71,32,,,,,,,,,,
+Rasmus Wurtz,R. Würtz,131444,['CDM'],Denmark,Aalborg BK,87,,,,,,,67,25,67,26,70,27,70,28,69,29,70,30,71,31,75,32,70,33,68,34,,,,,,
+Jonathan,Jonathan,110376,['ST'],Spain,RCD Espanyol de Barcelona,87,,,,,,,,,68,24,74,25,71,26,71,27,76,28,75,29,76,30,,,77,32,75,33,71,34,,
+Yakubu Aiyegbeni,Y. Aiyegbeni,109693,['ST'],Nigeria,Middlesbrough,87,,,,,,,80,26,77,27,73,28,,,,,,,,,68,33,,,,,,,,,,
+Yohann Pele,Y. Pelé,107298,['GK'],France,Le Mans FC,87,,,,,,,77,26,76,27,75,28,70,29,,,72,31,73,32,74,33,75,34,75,35,74,36,72,37,,
+Anton Ferdinand,A. Ferdinand,53412,['CB'],England,West Ham United,87,,,,,,,76,24,72,25,71,26,72,27,,,70,29,71,30,,,69,32,65,33,,,,,,
+Daniele De Rossi,D. De Rossi,53302,['CDM'],Italy,Roma,87,,,,,,,85,25,83,26,83,27,86,28,84,29,84,30,83,31,83,32,83,33,83,34,82,35,,,,
+Emmanuel Adebayor,E. Adebayor,53050,['ST'],Togo,Arsenal,87,,,,,,,84,25,83,26,82,27,82,28,80,29,80,30,79,31,,,78,33,79,34,74,35,,,,
+Mike Hanke,M. Hanke,53013,['ST'],Germany,VfL Wolfsburg,87,,,,,,,73,25,73,26,71,27,75,28,74,29,,,,,,,,,,,,,,,,
+Gnegneri Yaya Toure,G. Touré,20289,['CDM'],Côte d'Ivoire,AS Monaco,87,,,,,,,83,26,83,27,85,28,86,29,86,30,86,31,85,32,84,33,83,34,80,35,,,,,,
+Wout Brama,W. Brama,178319,['RM'],Netherlands,FC Twente,86,,,,,,,73,22,74,23,74,24,74,25,73,26,,,,,72,29,72,30,,,70,32,68,33,70,34
+Ismail Aissati,I. Aissati,177151,['CAM'],Netherlands,PSV,86,,,,,,,73,20,70,21,71,22,,,,,70,26,69,27,71,27,,,,,70,30,70,31,,
+Eduardo,Eduardo,176742,['RWB'],Brazil,Sport Club Corinthians Paulista,86,,,,,,,64,21,,,,,,,,,,,,,,,,,,,,,,,,
+Aleksandar Lukovic,A. Lukovic,175683,['LM'],Serbia,Ascoli,86,,,,,,,76,26,73,27,73,28,73,29,72,30,,,,,,,,,,,,,,,,
+Gareth Bale,G. Bale,173731,['LB'],Wales,Southampton,86,,,,,,,73,19,81,20,86,21,85,22,87,23,87,24,87,25,90,26,89,27,88,28,85,29,83,30,82,31
+Zlatko Junuzovic,Z. Junuzovic,173474,['CF'],Austria,Austria,86,,,,,,,66,21,71,22,74,23,74,24,75,25,75,26,79,27,79,28,79,29,78,30,77,31,76,32,76,33
+Daniele Dessena,D. Dessena,173147,['CDM'],Italy,Parma,86,,,,,,,72,22,73,23,69,24,74,25,73,26,71,27,70,28,71,29,71,30,70,31,71,32,69,33,,
+Cristian Rodriguez,C. Rodríguez,170664,['CAM'],Uruguay,Paris Saint-Germain,86,,,,,,,81,23,80,24,78,25,77,26,80,27,79,28,76,29,73,30,75,31,75,32,,,73,34,,
+Edgar Manucharyan,E. Manucharyan,168759,['ST'],Armenia,Ajax,86,,,,,,,,,,,,,,,65,26,65,27,67,28,,,70,30,,,,,,,,
+Ramon,Ramon,168415,['CAM'],Brazil,Sport Club Corinthians Paulista,86,,,,,,,69,21,,,,,,,,,,,,,,,,,,,,,,,,
+Julio Daniel Dos Santos,J. Dos Santos,167910,['CAM'],Paraguay,FC Bayern München,86,,,,,,,70,26,,,,,,,,,,,,,,,,,,,,,69,37,,
+Oscar Ustari,Ó. Ustari,167435,['GK'],Argentina,Argentina,86,,,,,,,76,22,75,23,73,24,72,25,75,26,74,27,72,28,72,29,73,30,,,,,70,33,72,34
+Radamel Falcao Garcia,R. García,167397,['CF'],Colombia,River Plate,86,,,,,,,78,23,82,24,86,25,88,26,90,27,88,28,83,29,81,30,84,31,85,32,83,33,80,34,78,35
+Patrick Helmes,P. Helmes,167237,['ST'],Germany,1. FC Köln,86,,,,,,,81,25,79,26,78,27,78,28,78,29,77,30,,,,,,,,,,,,,,
+Molinero,Molinero,166664,['RB'],Spain,Málaga CF,86,,,,,,,,,67,24,67,25,66,26,66,27,66,28,71,29,72,30,71,31,73,32,70,33,71,34,,
+Luizao,Luizão,165817,['CB'],Brazil,Cruzeiro,86,,,,,,,68,22,67,23,,,,,,,,,,,,,,,,,,,,,,
+Ted Mondesir Lavie Mienandy,T. Lavie Mienandy,165236,['CDM'],France,FC Girondins de Bordeaux,86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Paulo Andre,Paulo André,164233,['CB'],Brazil,Le Mans FC,86,,,,,,,69,25,70,26,70,27,74,28,75,29,,,72,31,,,,,,,,,,,,
+Adriano,Adriano,164082,['LM'],Brazil,Sevilla FC,86,,,,,,,78,24,78,25,78,26,75,27,77,28,76,29,79,30,78,31,78,32,78,33,,,74,35,,
+Steve Mandanda,S. Mandanda,163705,['GK'],France,Le Havre AC,86,,,,,,,83,24,83,25,84,26,84,27,83,28,82,29,83,30,85,31,82,32,83,33,80,34,83,35,81,36
+Michele Canini,M. Canini,163490,['LB'],Italy,Cagliari,86,,,,,,,71,24,73,25,76,26,77,27,74,28,,,74,30,,,72,32,,,,,,,,
+Ryan Smith,R. Smith,163168,['LF'],England,Derby County,86,,,,,,,66,22,68,23,,,64,25,,,,,,,,,,,,,,,,,,
+Matthew Bates,M. Bates,162982,['CB'],England,Middlesbrough,86,,,,,,,62,22,62,23,68,24,,,,,64,27,58,28,59,29,,,,,,,,,,
+Joao Moutinho,João Moutinho,162347,['CAM'],Portugal,Sporting CP,86,,,,,,,82,22,80,23,84,24,84,25,83,26,83,27,83,28,83,29,82,30,81,31,84,32,83,33,80,34
+Llorente,Llorente,162131,['ST'],Spain,Athletic Club de Bilbao,86,,,,,,,80,24,82,25,83,26,83,27,82,28,81,29,80,30,79,31,78,32,77,33,,,75,35,74,36
+Mark Gonzalez,M. González,158351,['LW'],Chile,Liverpool,86,,,,,,,74,24,78,25,76,26,76,27,75,28,74,29,73,30,73,31,,,,,,,,,,
+Mohamed Sissoko,M. Sissoko,157393,['CDM'],Mali,Liverpool,86,,,,,,,79,24,79,25,76,26,78,27,76,28,76,29,,,,,,,68,33,,,,,,
+Franck Dja Djedje,F. Dja Djédjé,156647,['ST'],France,Grenoble Foot 38,86,,,,,,,67,23,68,24,65,25,,,67,27,,,,,,,,,,,,,,,,
+Johan Vonlanthen,J. Vonlanthen,156384,['ST'],Switzerland,FC Red Bull Salzburg,86,,,,,,,71,23,,,,,,,69,27,,,,,,,,,,,,,,,,
+Ederson,Ederson,156272,['CM'],Brazil,OGC Nice,86,,,,,,,79,23,77,24,76,25,77,26,77,27,76,28,,,,,,,,,,,,,,
+Renato,Renato,156131,['CM'],Brazil,Sport Club Corinthians Paulista,86,,,,,,,71,24,71,25,,,,,,,,,,,,,,,,,,,,,,
+Bartosz Bialkowski,B. Białkowski,155871,['GK'],Poland,Southampton,86,,,,,,,57,21,58,22,62,23,63,24,63,25,63,26,67,27,72,28,73,29,75,30,70,31,72,32,72,33
+Ronald Gercaliu,R. Gercaliu,155810,['LB'],Austria,FC Red Bull Salzburg,86,,,,,,,65,23,64,24,63,25,63,26,62,27,63,28,,,,,,,,,,,,,,
+Chris Cohen,C. Cohen,152880,['CM'],England,Yeovil Town,86,,,,,,,67,22,70,23,70,24,70,25,68,26,68,27,69,28,70,29,70,30,,,,,,,,
+Edcarlos,Edcarlos,152826,['CB'],Brazil,São Paulo,86,,,,,,,69,24,70,25,71,26,71,27,65,28,,,72,30,,,,,,,,,,,,
+Santi Cazorla,Santi Cazorla,146562,['RM'],Spain,RC Recreativo de Huelva,86,,,,,,,81,24,81,25,84,26,84,27,85,28,84,29,85,30,86,31,83,32,,,82,34,82,35,,
+Rafael,Rafael,144622,['ST'],Brazil,FC Zürich,86,,,,,,,76,24,76,25,76,26,,,78,28,80,29,81,30,82,31,82,32,81,33,78,34,,,,
+Vincent Enyeama,V. Enyeama,139968,['GK'],Nigeria,Nigeria,86,,,,,,,,,,,77,28,,,76,30,80,31,81,32,83,33,81,34,76,35,,,,,,
+Austin Ejide,A. Ejide,139967,['GK'],Nigeria,SC Bastia,86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jason Shackell,J. Shackell,139368,['CB'],England,Norwich City,86,,,,,,,69,25,68,26,72,27,71,28,71,29,72,30,75,31,75,32,73,33,,,69,35,,,,
+Ayodele Makinwa,A. Makinwa,138928,['ST'],Nigeria,Lazio,86,,,,,,,71,25,,,71,27,,,,,,,,,,,,,,,,,,,,
+Nigel Reo Coker,N. Reo-Coker,138831,['CM'],England,West Ham United,86,,,,,,,75,25,76,26,77,27,,,69,29,66,30,65,31,,,65,33,,,,,,,,
+Tardelli,Tardelli,138456,['ST'],Brazil,São Caetano,86,,,,,,,77,24,78,25,76,26,,,76,28,,,,,,,,,76,33,,,,,,
+Stefan Kiessling,S. Kießling,137262,['ST'],Germany,Bayer 04 Leverkusen,86,,,,,,,78,25,81,26,79,27,79,28,81,29,81,30,80,31,78,32,76,33,,,,,,,,
+Marcelo Mattos,Marcelo Mattos,136168,['CDM'],Brazil,Sport Club Corinthians Paulista,86,,,,,,,76,25,71,26,71,27,72,28,73,29,,,,,,,,,,,,,,,,
+Gregory Bourillon,G. Bourillon,134777,['CB'],France,Stade Rennais FC,86,,,,,,,72,24,71,25,71,26,73,27,73,28,69,29,69,31,67,32,67,33,67,34,,,,,,
+Melli,Melli,134627,['CB'],Spain,Real Betis Balompié,86,,,,,,,73,25,72,26,69,27,73,28,,,,,,,70,32,,,,,,,,,,
+Francesco Lodi,F. Lodi,120238,['CAM'],Italy,Frosinone,86,,,,,,,75,25,72,26,71,27,78,28,79,29,73,30,,,75,32,,,,,,,,,,
+Sebastien Grax,S. Grax,112243,['ST'],France,AS Monaco,86,,,,,,,66,25,64,26,64,27,64,28,63,29,,,,,,,,,,,,,,,,
+Mourad Meghni,M. Meghni,106762,['CAM'],France,Bologna,86,,,,,,,73,25,72,26,,,,,,,,,,,,,,,,,,,,,,
+Stewart Downing,S. Downing,54013,['LW'],England,Middlesbrough,86,,,,,,,80,24,80,25,82,26,79,27,78,28,77,29,75,30,75,31,73,32,72,33,69,34,69,35,,
+Gary Oneil,G. O'Neil,53593,['CAM'],England,Portsmouth,86,,,,,,,73,26,72,27,73,28,71,29,65,30,67,31,68,32,70,33,69,34,67,35,,,,,,
+Shaun Maloney,S. Maloney,49036,['ST'],Scotland,Celtic,86,,,,,,,75,26,74,27,70,28,74,29,75,30,73,31,73,32,74,33,,,,,,,,,,
+Andreas Ivanschitz,A. Ivanschitz,42521,['LM'],Austria,Austria,86,,,,,,,75,25,75,26,76,27,75,28,76,29,76,30,75,31,75,32,,,,,,,,,,
+Bobby Convey,B. Convey,32190,['LM'],United States,United States,86,,,,,,,67,26,68,27,70,28,66,29,66,30,63,31,,,,,,,,,,,,,,
+David Odonkor,D. Odonkor,61,['RW'],Germany,Borussia Dortmund,86,,,,,,,68,25,69,26,66,27,,,,,,,,,,,,,,,,,,,,
+David Vrzogic,D. Vrzogic,177679,['LB'],Germany,Borussia Dortmund,85,,,,,,,60,19,,,,,,,,,,,,,,,65,27,64,28,61,29,,,,
+Mamadou Balde,M. Baldé,177662,['CB'],Senegal,Legia Warszawa,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jonathan De Guzman,J. De Guzman,177569,['CM'],Canada,Feyenoord,85,,,,,,,71,21,76,22,78,23,75,24,76,25,76,26,77,27,77,28,77,29,75,30,76,31,,,,
+Vieirinha,Vieirinha,177553,['RW'],Portugal,FC Porto,85,,,,,,,75,23,79,24,78,25,77,26,78,27,78,28,80,29,81,30,77,31,77,32,76,33,75,34,73,35
+Soares,Soares,176939,['ST'],Brazil,Figueirense,85,,,,,,,72,24,69,25,,,,,,,,,,,,,,,,,,,,,,
+Sebastian Boenisch,S. Boenisch,176688,['LWB'],Germany,FC Schalke 04,85,,,,,,,73,22,73,23,71,24,,,73,26,72,27,71,28,72,29,,,,,,,,,,
+Iago,Iago,176566,['CAM'],Spain,Deportivo de La Coruña,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dusko Tosic,D. Tosic,176377,['LB'],Serbia,FC Sochaux-Montbéliard,85,,,,,,,68,24,,,70,26,,,,,68,29,75,30,74,31,74,32,74,33,73,34,72,35,,
+Victor Nsofor Obinna,V. Obinna,172844,['CF'],Nigeria,Chievo Verona,85,,,,,,,71,22,72,23,72,24,72,25,72,26,72,27,,,72,29,,,,,,,,,,
+Pierre Ducasse,P. Ducasse,172199,['CDM'],France,FC Girondins de Bordeaux,85,,,,,,,67,22,70,23,69,24,68,25,67,26,,,,,,,,,,,,,,,,
+Barragan,Barragan,169426,['RB'],Spain,Deportivo de La Coruña,85,,,,,,,72,22,69,23,71,24,73,25,71,26,72,27,76,28,75,29,72,30,77,31,75,32,,,73,34
+Lee Martin,L. Martin,169112,['LW'],England,Rangers FC,85,,,,,,,68,22,63,23,66,24,68,25,67,26,67,27,67,28,68,29,66,30,65,31,64,32,,,,
+Hugo Rodallega,H. Rodallega,168565,['ST'],Colombia,Club Atlas,85,,,,,,,74,23,77,24,75,25,74,26,74,27,73,28,71,29,77,30,74,31,73,32,75,33,75,34,,
+James Keene,J. Keene,166918,['ST'],England,GAIS,85,,,,,,,66,23,62,24,60,25,63,26,63,27,,,63,29,,,,,,,,,,,,
+Ivan Carril,Iván Carril,165468,['CF'],Spain,UD Vecindario,85,,,,,,,,,65,25,67,26,66,27,,,,,,,,,,,,,,,,,,
+Bocundji Ca,B. Ca,165427,['CDM'],Guinea Bissau,FC Nantes,85,,,,,,,69,22,68,23,66,24,67,25,66,26,66,27,66,28,,,,,,,,,,,,
+Joel Lynch,J. Lynch,164855,['CB'],England,Brighton & Hove Albion,85,,,,,,,62,21,63,22,63,23,66,24,66,25,66,26,69,27,71,28,70,29,70,30,,,,,64,33
+Marcell Jansen,M. Jansen,164493,['LWB'],Germany,Borussia Mönchengladbach,85,,,,,,,77,23,79,24,76,25,76,26,76,27,77,28,,,,,,,,,,,,,,
+Bradley Wright Phillips,B. Wright-Phillips,164464,['ST'],England,Southampton,85,,,,,,,63,24,63,25,67,26,69,27,68,28,72,29,72,30,73,31,75,32,77,33,77,34,74,35,71,36
+Nedum Onuoha,N. Onuoha,164462,['CB'],England,Manchester City,85,,,,,,,76,22,78,23,74,24,73,25,75,26,75,27,76,28,76,29,72,30,,,70,32,69,33,,
+Lee Croft,L. Croft,164008,['CM'],England,Norwich City,85,,,,,,,67,24,64,25,66,26,63,27,,,63,29,62,30,63,31,,,,,,,,,,
+Leyti Ndiaye,L. N'Diaye,163995,['CB'],Senegal,RC Strasbourg Alsace,85,,,,,,,66,23,68,24,69,25,66,26,,,,,,,,,,,,,,,,,,
+Leighton Baines,L. Baines,163631,['LB'],England,Wigan Athletic,85,,,,,,,81,24,78,25,80,26,80,27,83,28,82,29,83,30,83,31,82,32,79,33,75,34,,,,
+Jeremy Clement,J. Clément,163530,['CM'],France,Rangers FC,85,,,,,,,74,24,74,25,73,26,76,27,77,28,77,29,77,30,75,31,73,32,67,33,,,,,,
+Younes Kaboul,Y. Kaboul,163418,['CB'],France,AJ Auxerre,85,,,,,,,74,23,77,24,76,25,79,26,80,27,79,28,79,29,77,30,75,31,75,32,,,,,,
+Adailton,Adaílton,157928,['CB'],Brazil,Stade Rennais FC,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Raul Albiol,Raúl Albiol,157481,['CB'],Spain,Valencia CF,85,,,,,,,83,23,83,24,82,25,81,26,80,27,80,28,81,29,82,30,82,31,84,32,83,33,82,34,82,35
+Stephen Elliott,S. Elliott,157240,['ST'],Republic of Ireland,Sunderland,85,,,,,,,66,25,67,26,68,27,67,28,,,65,30,,,,,59,33,,,,,,,,
+Steven Davis,S. Davis,151508,['CM'],Northern Ireland,Aston Villa,85,,,,,,,79,24,79,25,75,26,75,27,73,28,76,29,76,30,77,31,77,32,74,33,74,34,72,35,76,36
+Jonathan Brison,J. Brison,150568,['LM'],France,AS Nancy Lorraine,85,,,,,,,74,26,72,27,75,28,71,29,72,30,72,31,71,32,70,33,65,34,,,,,,,,
+Alessandro Potenza,A. Potenza,149269,['CB'],Italy,Fiorentina,85,,,,,,,72,25,70,26,71,27,70,28,68,29,,,,,,,,,,,,,,,,
+Andrei Cristea,A. Cristea,148365,['CF'],Romania,Romania,85,,,,,,,,,,,66,27,,,,,,,,,,,,,,,67,35,65,36,64,37
+Brian Howard,B. Howard,139200,['CAM'],England,Barnsley,85,,,,,,,69,26,67,27,66,28,66,29,,,64,31,,,,,,,,,,,,,,
+Hugo Almeida,Hugo Almeida,138984,['ST'],Portugal,SV Werder Bremen,85,,,,,,,79,25,77,26,78,27,76,28,,,76,30,74,31,,,72,33,,,,,,,,
+Giorgio Chiellini,G. Chiellini,138956,['LWB'],Italy,Juventus,85,,,,,,,86,24,85,25,84,26,84,27,86,28,84,29,87,30,88,31,89,32,89,33,89,34,87,35,86,36
+Maxi Lopez,Maxi López,138806,['ST'],Argentina,RCD Mallorca,85,,,,,,,77,25,78,26,78,27,76,28,74,29,72,30,77,31,78,32,74,33,,,,,68,36,,
+Darren Fletcher,D. Fletcher,138782,['CM'],Scotland,Manchester United,85,,,,,,,79,25,82,26,81,27,80,28,79,29,75,30,75,31,76,32,76,33,74,34,,,,,,
+Pape Diakhate,P. Diakhaté,138080,['LB'],Senegal,AS Nancy Lorraine,85,,,,,,,,,70,26,74,27,68,28,69,29,70,30,70,31,,,,,,,,,,,,
+Ryan Jarvis,R. Jarvis,134812,['CF'],England,Norwich City,85,,,,,,,57,22,57,23,58,24,59,25,59,26,60,27,,,,,,,,,,,,,,
+Malik Fathi,M. Fathi,134809,['LB'],Germany,Hertha BSC,85,,,,,,,73,25,72,26,74,27,,,71,29,,,,,,,,,,,,,,,,
+Jan Schlaudraff,J. Schlaudraff,126925,['CAM'],Germany,Alemannia Aachen,85,,,,,,,76,25,73,26,77,27,77,28,77,29,74,30,,,,,,,,,,,,,,
+Nelson Valdez,Nelson Valdez,121193,['ST'],Paraguay,Borussia Dortmund,85,,,,,,,75,25,75,26,76,27,77,28,,,76,30,75,31,73,32,,,,,,,,,,
+Jeremy Mathieu,J. Mathieu,112316,['CDM'],France,Toulouse Football Club,85,,,,,,,78,25,77,26,76,27,77,28,78,29,80,30,83,31,81,32,80,33,81,34,81,35,,,,
+Stephan Lichtsteiner,S. Lichtsteiner,108080,['RB'],Switzerland,LOSC Lille,85,,,,,,,75,25,75,26,79,27,82,28,78,29,77,30,82,31,83,32,82,33,80,34,72,35,,,,
+Halil Altintop,H. Altintop,107651,['ST'],Turkey,FC Schalke 04,85,,,,,,,76,26,76,27,,,,,73,30,74,31,76,32,76,33,71,34,,,,,,,,
+Wayne Routledge,W. Routledge,54051,['RW'],England,Tottenham Hotspur,85,,,,,,,72,24,72,25,74,26,73,27,74,28,75,29,76,30,76,31,75,32,73,33,70,34,69,35,,
+Craig Gordon,C. Gordon,53110,['GK'],Scotland,Heart of Midlothian,85,,,,,,,76,26,78,27,78,28,,,,,70,31,75,32,73,33,74,34,74,35,72,36,,,68,38
+Ibrahima Bangoura,I. Bangoura,52254,['RF'],Guinea,ESTAC Troyes,85,,,,,,,69,26,,,,,,,,,,,,,,,,,,,,,,,,
+Carlton Cole,C. Cole,50588,['ST'],England,West Ham United,85,,,,,,,77,25,78,26,76,27,73,28,,,72,30,70,31,,,,,,,,,,,,
+Derek Riordan,D. Riordan,49043,['CF'],Scotland,Celtic,85,,,,,,,75,26,76,27,,,,,,,,,59,32,,,,,,,,,,,,
+Gary Oconnor,G. O'Connor,46997,['ST'],Scotland,Scotland,85,,,,,,,72,26,72,27,70,28,,,,,,,,,,,,,,,,,,,,
+Eddie Johnson,E. Johnson,46727,['ST'],United States,Sporting Kansas City,85,,,,,,,68,25,70,26,,,71,28,72,29,68,30,69,31,,,,,,,,,,,,
+Robin Van Persie,R. van Persie,7826,['ST'],Netherlands,Arsenal,,,,,,,,85,25,85,26,86,27,88,28,89,29,88,30,84,31,81,32,78,33,78,34,,,,,,
+Mido,Mido,2141,['ST'],Egypt,Roma,85,,,,,,,,,74,27,,,69,29,,,,,,,,,,,,,,,,,,
+Andres Franzoia,A. Franzoia,177535,['CF'],Argentina,Boca Juniors,84,,,,,,,,,,,,,,,,,,,66,29,,,,,,,,,,,,
+Luka Modric,L. Modric,177003,['CM'],Croatia,Croatia,84,,,,,,,82,23,83,24,88,25,86,26,85,27,87,28,87,29,89,30,89,31,91,32,90,33,87,34,87,35
+Marcio Mossoro,Márcio Mossoró,176894,['CAM'],Brazil,Internacional,84,,,,,,,70,25,77,26,77,27,77,28,77,29,,,75,31,75,32,76,33,76,34,76,35,74,36,,
+Leandro Lima,Leandro Lima,176815,['CF'],Brazil,São Caetano,84,,,,,,,72,23,71,24,71,25,67,26,67,27,67,28,69,29,,,,,,,,,,,,
+Francismar,Francismar,176754,['CAM'],Brazil,Cruzeiro,84,,,,,,,,,,,,,,,66,29,,,,,,,,,,,,,,,,
+Lenny,Lenny,176675,['ST'],Brazil,Fluminense,84,,,,,,,70,21,70,22,,,,,,,,,,,,,,,,,,,,,,
+Kevin Mirallas,K. Mirallas,172175,['CF'],Belgium,LOSC Lille,84,,,,,,,72,21,72,22,77,23,78,24,80,25,80,26,80,27,81,28,81,29,78,30,78,31,,,72,33
+Caner Erkin,C. Erkin,171875,['LW'],Turkey,Manisaspor,84,,,,,,,71,20,72,21,,,,,73,24,77,25,78,26,77,27,76,28,76,29,75,30,76,31,76,32
+Rudy Haddad,R. Haddad,171273,['CAM'],France,Valenciennes FC,84,,,,,,,64,24,66,25,69,26,66,27,67,28,,,,,,,,,,,,,,,,
+Mouhamadou Dabo,M. Dabo,168630,['CDM'],Senegal,AS Saint-Étienne,84,,,,,,,77,22,77,23,73,24,73,25,72,26,72,27,,,72,29,71,30,64,31,,,,,,
+Florian Marange,F. Marange,165237,['LWB'],France,FC Girondins de Bordeaux,84,,,,,,,62,23,62,24,72,25,64,26,68,27,,,69,29,70,30,,,,,,,,,,
+Marc Andre Kruska,M. Kruska,164495,['CDM'],Germany,Borussia Dortmund,84,,,,,,,69,22,69,23,71,24,66,25,66,26,64,27,65,28,,,64,30,,,,,,,,
+Mbark Boussoufa,M. Boussoufa,164435,['CF'],Morocco,RSC Anderlecht,84,,,,,,,77,24,79,25,82,26,82,27,81,28,81,29,80,30,,,,,78,33,,,,,,
+Ben Foster,B. Foster,163155,['GK'],England,Watford,84,,,,,,,77,26,74,27,78,28,78,29,78,30,78,31,79,32,80,33,80,34,77,35,80,36,79,37,78,38
